@@ -65,6 +65,8 @@ stringcount_busstop
 S Ostbahnhof	S OSTBAHNHOF	S Ostbahnhof		S Ostbahnhof	;CDJK"qwxBa140 142 147 240 300 347 N40
 Bauernhof	NORDS. BAUERNHOF	Nordspitze 	Bauernhof	Nordsp. Bauernhof	a76
 
+string0                            string1                            string2                            string3                            string4                            string5
+id                                 all caps                           IBIS rad 1                         IBIS rad 2                         infotainment                       bytesmöjligheter
 [addbusstop_list]
 Aalemannufer	AALEMANNUFER	Aalemannufer		Aalemannufer									
 Adamstr	ADAMSTR.	Adamstr.		Adamstr.									
