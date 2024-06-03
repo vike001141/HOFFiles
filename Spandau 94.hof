@@ -204,8 +204,8 @@ Attention: now with automatic centering ANNAX!
 New type of command for a better arranged bus stop list. Each column has its special meaning:													
 													
 													
-	string0	string1	string2	string3									
-Ident	IBIS-1	Int-Display Line 1	Int-Display Line 2	IBIS-2									
+	string0	string1	string2	string3	string4								
+Ident	IBIS-1	Int-Display Line 1	Int-Display Line 2	IBIS-2	Umsteigenmöglichkeiten								
 													
 [addbusstop_list]													
 Aalemannufer	AALEMANNUFER	Aalemannufer		Aalemannufer									
