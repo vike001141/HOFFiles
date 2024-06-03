@@ -62,104 +62,182 @@ stringcount_busstop
 *******************
 * B u s s t o p s *
 *******************
+S Ostbahnhof	S OSTBAHNHOF	S Ostbahnhof		S Ostbahnhof	;CDJK"qwxBa140 142 147 240 300 347 N40
+Bauernhof	NORDS. BAUERNHOF	Nordspitze 	Bauernhof	Nordsp. Bauernhof	a76
 
 [addbusstop_list]
-Zitadellenweg
-Hoher Steinweg
-Moritzstr
-U Rathaus Spandau
-Brunsbuetteler D
-Seeburger Str
-Metzer Str
-Melanchthonpl
-Am Omnibushof
-Wilhelmstr
-Heerstr/Wilhelmstr
-Rodensteinstr
-Ruhlebener Str
-U Altstadt Spandau
-Gatower Str
-Kolonie Hasenheide
-Paewesiner Weg
-Seecktstr
-Klosterstr
-Stadtgrenze
-Pillnitzer Weg
-Heerstr 438-446
-Heerstr/Magistratsweg
-Heerstr/Sandstr
-Omnibushof
-Reimerweg
-Maulbeerallee
-Baluschekweg
-Seeburger Weg
-Wroehmaennerpark
-Schm-Knobelsdorf-Str
-Magistratsweg
-Sandheideweg
-Alt-Pichelsdorf
-Gatower Str/Heerstr
-Teltower Str
-Gueterbahn Ruhleben
-Polizei-Direktion-West
-Krematorium Ruhleben
-U Ruhleben
-Machandelweg
-Fernbahnhof Spandau
-Breite Str/Markt
-Galenstr
-Staakener Str
-Petzoldweg
-Zeppelinstr
-Spekteweg
-Merziger Str
-Westerwaldstr
-Frankenwaldstr
-Am Kiesteich
-Spektefeld
-Paul-Gerhardt-Ring
-Spektefeld Schulzentrum
-Hochhausweg
-Falkenseer Ch/Stadtrandstr
-Gluehwuermchenweg
-Zum Waldkrankenhaus
-Griesingerstr
-Nervenklinik
-Muelheimer Str
-Siegener Str
-Seegefelder Str/Zeppelinstr
-Dallgower Str
-Stresowpl
-Grenadierstr
-Tiefwerderweg
-Waldkrankenhaus
-Reichsstr
-Brunsbütteler D
-Pichelswerderstr
-Freiheit 16-43
-Klaerwerkstr/Freiheit
-Schulzenstr
-Hohenzollernring/Galenstr
-Jenneweg
-Borchertweg
-Hohenzollernring
-Zweibruecker Str
-Pionierstr
-Elsflether Weg
-Falkenseer Damm
-Flankenschanze
-Askanierring
-Wasserwerkstr
-Beerwinkel
-Am Bogen
-Stadtrandstr
-Freudstr Falk
-Freudstr
-Falkenseer Ch Freud
-Falkenseer Pl
-Obstallee
-Blasewitzer Ring
-Im Spektefeld
+Aalemannufer	AALEMANNUFER	Aalemannufer		Aalemannufer									
+Adamstr	ADAMSTR.	Adamstr.		Adamstr.									
+AltstÃ¤dter Ring	ALTSTÃ„DTER RING	AltstÃ¤dter Ring		AltstÃ¤dter Ring									
+Am Bogen	AM BOGEN	Am Bogen		Am Bogen									
+Am Graben	AM GRABEN	Am Graben		Am Graben									
+Am Omnibushof	AM OMNIBUSHOF	Am Omnibushof		Am Omnibushof									
+Askanierring	ASKANIERRING	Askanierring		Askanierring									
+Badewiese	BADEWIESE	Badewiese		Badewiese									
+Baluschekweg	BALUSCHEKWEG	Baluschekweg		Baluschekweg									
+Beerwinkel	BEERWINKEL	Beerwinkel		Beerwinkel									
+Bhf Falkensee	BHF. FALKENSEE	Bahnhof Falkensee		Bahnhof Falkensee									
+Biberburg	BIBERBURG	Biberburg		Biberburg									
+Boetzow-Bahn	B?TZOW-BAHN	B?tzow-Bahn		B?tzow-Bahn									
+Borchertweg	BORCHERTWEG	Borchertweg		Borchertweg									
+Breite Str/Markt	BREITE STR/MARKT	Breitestr./Markt		Breitestr./Markt									
+Brunsbuetteler D/Ruhlebener Str	BRUNSB.D/RUHLSTR	BrunsbÃ¼tteler D./	Ruhlebener Str.	Brunsb.D./Ruhl. Str.									
+Brunsbuetteler Damm	NENNHAUSER DAMM	Nennhauser Damm		Nennhauser Damm									
+Dallgower Str	DALLGOWER STR.	Dallgower Str.		Dallgower Str.									
+Dyrotzer Str	DYROTZER STR.	Dyrotzer Str.		Dyrotzer Str.									
+Egelpfuhlstr	EGELPFUHLSTR.	Egelpfuhlstr.		Egelpfuhlstr.									
+Elsflether Weg	ELSFLETHER WEG	Elsflether Weg		Elsflether Weg									
+Eschenweg	ESCHENWEG	Eschenweg		Eschenweg									
+F_Hamburger Str	F.HAMBURGER STR.	Falkensee	Hamburger Str.	Falk.Hamburger Str.									
+F_Humboldtallee	HUMBOLDTALLEE	Falkensee	Humboldtallee	Humboldtallee									
+F_Koelner Str	FALK.K?LNER STR.	Falkensee	K?lner Str.	Falk. K?lner Str.									
+F_Rathaus	FALK. RATHAUS	Falkensee Rathaus		Falkensee Rathaus									
+F_Seegefelder Str	SEEGEFELDER STR.	Falkensee	Seegefelder Str.	Seegefelder Str.									
+F_Siedlereck	FALK. SIEDLERECK	Falkensee	Siedlereck	Falkensee Siedlereck									
+Falkenseer Ch Freud	FALK/FREUDSTR.	Falkenseer Ch./	Freudstr.	Falkens.Ch/Freudstr.									
+Falkenseer Ch/Stadtrandstr	FALK/STADTRANDST	Falkenseer Ch./	Stadtrandstr.	Falk./Stadtrandstr.									
+Falkenseer Ch/Zeppelinstr	FALK/ZEPPELINSTR	Falkenseer Ch./	Zeppelinstr.	Falk. Ch./Zeppelin									
+Falkenseer Pl	FALKENSEER PL.	Falkenseer Platz		Falkenseer Platz									
+Fernbahnhof Spandau	FERNBHF. SPANDAU	Fernbhf. Spandau		Fernbahnhof Spandau									
+Finnenhaus-Siedlung	FINNENHAUS-SDLG.	Finnenhaus-Siedlung		Finnenhaus-Siedlung									
+Flankenschanze	FLANKENSCHANZE	Flankenschanze		Flankenschanze									
+Flugplatz Gatow	FLUGPLATZ GATOW	Flugplatz Gatow		Flugplatz Gatow									
+Foelderichstr	F?LDERICHSTR.	F?lderichstr.		F?lderichstr.									
+Foelderichstr/Adamstr	F?LDERICHS/ADAMS	F?lderichstr./	Adamstr.	F?lderichstr/Adamstr									
+Freiheit 16-43	FREIHEIT 16-43	Freiheit 16-43		Freiheit 16-43									
+Freudstr	GOLDK?FERWEG	Freudstr./	Goldk?ferweg	Goldk?ferweg									
+Freudstr Falk	FALK/FREUDSTR.	Falkenseer Ch./	Freudstr.	Falkens.Ch/Freudstr.									
+Galenstr	GALENSTR.	Galenstr./	S Spandau-West	Galenstr.									
+Galenstr/Hohenzollernring	GALENSTR./HOHZR.	Galenstr./	Hohenzollernring	Galenstr./Hohenzring									
+Gatow Kirche	GATOW, KIRCHE	Gatow Kirche		Gatow, Kirche									
+Gatower Str/Heerstr	GATOWER/HEERSTR.	Gatower Str./	Heerstr.	Gatower/Heerstr.									
+Genfenbergstr	GENFENBERGSTR.	Genfenbergstr.		Genfenbergstr.									
+Glienicke Gutshof	GLIENICKE GUTSH.	Glienicke Gutshof		Glienicke Gutshof									
+Gliensteig	GLIENSTEIG	Gliensteig		Gliensteig									
+Gluehwuermchenweg	GL?HW?RMCHENWEG	Gl?hw?rmchenweg		Gl?hw?rmchenweg									
+Goessweinsteiner Gang	G?SSWEINST. GANG	G??weinsteiner Gang		G??weinsteiner Gang									
+Goetelstr	G?TELSTR.	G?telstr.		G?telstr.									
+Goltzstr/Mertensstr	GOLTZSTR/MERTEN.	Goltzstr./	Mertensstr.	Goltzstr./Mertensstr									
+Goltzstr/Rauchstr	GOLTZSTR/RAUCHS.	Goltzstr./	Rauchstr.	Goltzstr./Rauchstr.									
+Goltzstr/Reussstr	GOLTZSTR/REUSSS.	Goltzstr./	Reu?str.	Goltzstr./Reu?str.									
+Gredinger Str	GREDINGER STR.	Gredinger Str.		Gredinger Str.									
+Grenadierstr	GRENADIERSTR.	Grenadierstr.		Grenadierstr.									
+Griesingerstr	GRIESINGERSTR.	Griesingerstr.		Griesingerstr.									
+Griesingerstr/Waldkrankenhaus	GRIESINGER/WALDK	Griesingerstr./	Waldkrankenhaus	Griesinger/Waldkrkhs									
+Gross-Glienicker Weg	GR-GLIENICKER W.	Gro?-Glienicker Weg		Gro?-Glienicker Weg									
+Gruenhofer Weg	GR?NHOFER WEG	Gr?nhofer Weg		Gr?nhofer Weg									
+Gueterbahnhof Ruhleben	G?TERBHF. RUHL.	G?terbahnhof	Ruhleben	G?terbhf. Ruhleben									
+Hahneberg	HAHNEBERG	Hahneberg		Hahneberg									
+Hakenfelde	HAKENFELDE	Hakenfelde		Hakenfelde									
+Harburger Weg	HARBURGER WEG	Harburger Weg		Harburger Weg									
+Heerstr 438-446	HEERSTR. 438-446	Heerstr. 438-446		Heerstr. 438-446									
+Heerstr/Pichelsdorfer Str	HEERS/PICHELSD.	Heerstr./	Pichelsdorfer Str.	Heerstr./Pichelsd.s.									
+Heerstr/Wilhelmstr	HEERSTR./WILHELM	Heerstr./	Wilhelmstr.	Heerstr./Wilhelmstr.									
+Heidebergplan	HEIDEBERGPLAN	Heidebergplan		Heidebergplan									
+Heidereuterstr	HEIDEREUTERSTR.	Heidereuterstr.		Heidereuterstr.									
+Hochhausweg	HOCHHAUSWEG	Hochhausweg		Hochhausweg									
+Hohenzollernring	FALK/HOHENZOLLER	Falkenseer Ch./	Hohenzollernring	Hohenzollernring									
+Hohenzollernring/Galenstr	HOHENZ./GALENSTR	Hohenzollernring/	Galenstr.	Hohenz./Galenstr.									
+Hottengrundweg	HOTTENGRUNDWEG	Hottengrundweg		Hottengrundweg									
+Spektefeld/Schulzentrum	SCHULZENTRUM	Spektefeld/	Schulzentrum	Spektef. Schulzentr.									
+Jaczostr	JACZOSTR.	Jaczostr.		Jaczostr.									
+Jenneweg	JENNEWEG	Jenneweg		Jenneweg									
+Jordanstr	JORDANSTR.	Jordanstr.		Jordanstr.									
+Kaserne Hottengrund	KAS. HOTTENGRUND	Kaserne Hottengrund		Kaserne Hottengrund									
+Kisselnallee	KISSELNALLEE	Kisselnallee		Kisselnallee									
+Kladow Dorfplatz	KLADOW DORFPLATZ	Kladow Dorfplatz		Kladow Dorfplatz									
+Kladow Hottengrund	KLADOW HOTTENG.	Kladow Hottengrund		Kladow Hottengrund									
+Klaerwerkstr/Freiheit	KL?RWERKSTR./FR.	Kl?rwerkstr./	Freiheit	Kl?rwerkstr/Freiheit									
+Klosterbuschweg	KLOSTERBUSCHWEG	Klosterbuschweg		Klosterbuschweg									
+Kolonie Hasenheide	KOL. HASENHEIDE	Kolonie	Hasenheide	Kolonie Hasenheide									
+Kolonie Waldfrieden	KOL. WALDFRIEDEN	Kolonie	Waldfrieden	Kolonie Waldfrieden									
+Kraftwerk Oberhavel	KRAFTW. OBERHVL.	Kraftwerk Overhavel		Kraftwerk Oberhavel									
+Krampnitzer Weg	KRAMPNITZER WEG	Krampnitzer Weg		Krampnitzer Weg									
+Krankenhaus Havelhoehe	KRK. HAVELH?HE	Krankenhaus	Havelh?he	Krankh. Havelh?he									
+Krankenhaus Hohengatow	KRK. HOHENGATOW	Krankenhaus	Hohengatow	Krankh. Hohengatow									
+Krematorium Ruhleben	KREM. RUHLEBEN	Krematorium Ruhl.		Krematorium Ruhleben									
+Krowelstr	KROWELSTR.	Krowelstr.		Krowelstr.									
+Kurpromenade	KURPROMENADE	Kurpromenade		Kurpromenade									
+Kurze Str/Mittelstr	KURZE S/MITTELS.	Kurze Str./	Mittelstr.	Kurze Str./Mittelstr									
+Leubnitzer Weg	LEUBNITZER WEG	Leubnitzer Weg		Leubnitzer Weg									
+Leuthinger Weg	LEUTHINGER WEG	Leuthinger Weg		Leuthinger Weg									
+Louise-Schroeder-Siedlung	L.-SCHR?DER-SDLG	Louise-Schr?der-	Siedlung	L.-Schr?der-Siedlung									
+Lutoner Str	LUTONER STR.	Lutoner Str.		Lutoner Str.									
+Lynarstr/Parkstr	LYNARSTR./PARKS.	Lynarstr./	Parkstr.	Lynarstr./Parkstr.									
+Machandelweg	MACHANDELWEG	Machandelweg		Machandelweg									
+Magistratsweg	MAGISTRATSWEG	Magistratsweg		Magistratsweg									
+Melanchthonpl	MELANCHTHONPL.	Melanchthonplatz		Melanchthonplatz									
+Merziger Str	MERZIGER STR.	Merziger Str.		Merziger Str.									
+Metzer Str	METZER STR.	Metzer Str.		Metzer Str.									
+Moritzstr	MORITZSTR.	Moritzstr.		Moritzstra?e									
+Muelheimer Str	M?LHEIMER STR.	M?lheimer Str.		M?lheimer Str.									
+Nauener Str	NAUENER STR.	Nauener Str.		Nauener Str.									
+Nervenklinik	NERVENKLINIK SP.	Nervenklinik Spandau		Nervenklinik Spandau									
+Neukladower Allee	NEUKLADOW. ALLEE	Neukladower Allee		Neukladower Allee									
+Obstallee	OBSTALLEE	Obstallee		Obstallee									
+Ortsgrenze Gatow	ORTSGRENZE GATOW	Ortsgrenze Gatow		Ortsgrenze Gatow									
+Paul-Gerhardt-Ring	P.-GERHARDT-RING	Paul-Gerhardt-Ring		Paul-Gerhardt-Ring									
+Pfirsichweg	PFIRSICHWEG	Pfirsichweg		Pfirsichweg									
+Pflegeheim	PFLEGEHEIM	Pflegeheim		Pflegeheim									
+Pichelsdorfer Str	PICHELSDORFER S.	Pichelsdorfer Str.		Pichelsdorfer Str.									
+Pichelswerderstr	PICHELSWERDERSTR	Pichelswerderstr.		Pichelswerderstr.									
+Pillnitzer Weg	PILLNITZER WEG	Pillnitzer Weg		Pillnitzer Weg									
+Pionierstr	PIONIERSTR.	Pionierstr.		Pionierstr.									
+Polizeidirektion 2	POLIZEIDIR. 2	Polizeidirektion 2		Polizeidirektion 2									
+Radelandstr	RADELANDSTR.	Radelandstr.		Radelandstr.									
+Rauchstr	RAUCHSTR.	Rauchstr.		Rauchstr.									
+Reimerweg	REIMERWEG	Heerstr./	Reimerweg	Reimerweg									
+Ritterfelddamm	RITTERFELDDAMM	Ritterfelddamm		Ritterfelddamm									
+Rustweg	RUSTWEG	Rustweg		Rustweg									
+Sandheideweg	SANDHEIDEWEG	Sandheideweg		Sandheideweg									
+Sandstr	SANDSTR.	Sandstr.		Sandstr.									
+Schaeferstr	SCH?FERSTR.	Sch?ferstr.		Sch?ferstr.									
+Schallweg	SCHALLWEG	Schallweg		Schallweg									
+Schulzenstr	SCHULZENSTR.	Schulzenstr.		Schulzenstr.									
+Schwabinger Weg	SCHWABINGER WEG	Schwabinger Weg		Schwabinger Weg									
+Schwanter Weg	SCHWANTER WEG	Schwanter Weg		Schwanter Weg									
+Seeburger Str/Paewesiner Weg	P?WESINER WEG	Seeburger Str./	P?wesiner Weg	P?wesiner Weg									
+Seecktstr	SEECKTSTR.	Seecktstr.		Seecktstr.									
+Seekorso	SEEKORSO	Seekorso		Seekorso									
+Semmellaenderweg	SEMMELL?NDERWEG	Semmell?nderweg		Semmell?nderweg									
+Siedlung Hakenfelde	SDLG. HAKENFELDE	Siedlung Hakenfelde		Siedlung Hakenfelde									
+Siegener Str	SIEGENER STR.	Siegener Str.		Siegener Str.									
+Spandau Friedhof	SPANDAU FRIEDHOF	Spandau Friedhof		Spandau Friedhof									
+Spandau Wasserwerk	WASSERWERK	Wasserwerk		Wasserwerk									
+Spandauer Str	SPANDAUER STR.	Spandauer Str.		Spandauer Str.									
+Spektefeld	SPEKTEFELD	Spektefeld		Spektefeld									
+Spekteweg	SPEKTEWEG	Spekteweg		Spekteweg									
+Springerzeile	SPRINGERZEILE	Springerzeile		Springerzeile									
+Staakener Str	STAAKENER STR.	Staakener Str.		Staakener Str.									
+Str 393	STRASSE 393	Stra?e 393		Stra?e 393									
+Str 603	STRASSE 603	Stra?e 603		Stra?e 603									
+Streitstr/Mertensstr	STREITSTR/MERT.	Streitstr./	Mertensstr.	Streitstr./Mertenss.									
+Streitstr/Rauchstr	STREITSTR/RAUCH.	Streitstr./	Rauchstr.	Streitstr./Rauchstr.									
+Stresowpl	STRESOWPLATZ	Stresowplatz		Stresowplatz									
+Teltower Str	TELTOWER STR.	Teltower Str.		Teltower Str.									
+Torweg	TORWEG	Torweg		Torweg									
+Torweg/Hackbuschstr	TORWEG/HACKBUSCH	Torweg/	Hackbuschstr.	Torweg/Hackbuschstr.									
+Triftstr	TRIFTSTR.	Triftstr.		Triftstr.									
+U Altstadt Spandau	U ALTSTADT SPD.	U Altstadt Spandau		U Altstadt Spandau									
+U Rathaus Spandau	U RATHAUS SPD.	U Rathaus Spandau		U Rathaus Spandau									
+U Ruhleben	U RUHLEBEN	U Ruhleben		U Ruhleben									
+Uebergang	?BERGANG	?bergang		?bergang									
+Viersener Str	VIERSENER STR.	Viersener Str.		Viersener Str.									
+Waldallee	WALDALLEE	Waldallee		Waldallee									
+Waldkrankenhaus	WALDKRANKENHAUS	Waldkrankenhaus		Waldkrankenhaus									
+Waldstr	WALDSTR.	Waldstr.		Waldstr.									
+Wasserwerkstr	WASSERWERKSTR	Wasserwerkstr.		Wasserwerkstr.									
+Weinmeisterhornweg	WEINMEISTERHORNW	Weinmeisterhornweg		Weinmeisterhornweg									
+Weissenburger Str	WEISSENBURGER S.	Wei?enburger Str.		Wei?enburger Str.									
+Werderstr	WERDERSTR.	Werderstr.		Werderstr.									
+Wilhelmstr	WILHELMSTR.	Wilhelmstr.		Wilhelmstr.									
+Wolburgsweg	WOLBURGSWEG	Wolburgsweg		Wolburgsweg									
+Wroehmaennerpark	WR?HM?NNERPARK	Wr?hm?nnerpark		Wr?hm?nnerpark									
+Zeppelinstr/Seegefelder Str	ZEPP./SEEGEF.	Zeppelinstr./	Seegefelder Str.	Zepp.str./Seegef.Str									
+Ziegelhof	ZIEGELHOF	Ziegelhof		Ziegelhof									
+Zur Havelduene	ZUR HAVELD?NE	Zur Haveld?ne		Zur Haveld?ne									
+Zweibruecker Str	ZWEIBR?CKER STR.	Zweibr?cker Str.		Zweibr?cker Str.									
+Zweiwinkelweg	ZWEIWINKELWEG	Zweiwinkelweg		Zweiwinkelweg
 [end]
 
 ***************
@@ -697,7 +775,7 @@ Polizei-Direktion-West
 Gueterbahn Ruhleben
 Teltower Str
 Tiefwerderweg
-Brunsbütteler D
+Brunsbï¿½tteler D
 U Rathaus Spandau
 Moritzstr
 Wroehmaennerpark
@@ -739,7 +817,7 @@ Polizei-Direktion-West
 Gueterbahn Ruhleben
 Teltower Str
 Tiefwerderweg
-Brunsbütteler D
+Brunsbï¿½tteler D
 U Rathaus Spandau
 Moritzstr
 Wroehmaennerpark
