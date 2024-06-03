@@ -65,42 +65,42 @@ stringcount_busstop
 S Ostbahnhof	S OSTBAHNHOF	S Ostbahnhof		S Ostbahnhof	;CDJK"qwxBa140 142 147 240 300 347 N40
 Bauernhof	NORDS. BAUERNHOF	Nordspitze 	Bauernhof	Nordsp. Bauernhof	a76
 
-string0                            string1                            string2                            string3                            string4                            string5
-id                                 all caps                           IBIS rad 1                         IBIS rad 2                         infotainment                       bytesmöjligheter
+string0	string1	string2	string3	string4	string5
+id	all caps	IBIS rad 1	IBIS rad 2	infotainment	bytesmöjligheter
 [addbusstop_list]
 Aalemannufer	AALEMANNUFER	Aalemannufer		Aalemannufer									
 Adamstr	ADAMSTR.	Adamstr.		Adamstr.									
-Altstädter Ring	ALTSTÄDTER RING	Altstädter Ring		Altstädter Ring									
+Altstaedter Ring	ALTSTÄDTER RING	Altstädter Ring		Altstädter Ring									
 Am Bogen	AM BOGEN	Am Bogen		Am Bogen									
 Am Graben	AM GRABEN	Am Graben		Am Graben									
-Am Omnibushof	AM OMNIBUSHOF	Am Omnibushof		Am Omnibushof									
-Askanierring	ASKANIERRING	Askanierring		Askanierring									
+Am Omnibushof	AM OMNIBUSHOF	Am Omnibushof		Am Omnibushof	a134 135 638									
+Askanierring	ASKANIERRING	Askanierring		Askanierring	a137 M37								
 Badewiese	BADEWIESE	Badewiese		Badewiese									
 Baluschekweg	BALUSCHEKWEG	Baluschekweg		Baluschekweg									
 Beerwinkel	BEERWINKEL	Beerwinkel		Beerwinkel									
-Bhf Falkensee	BHF. FALKENSEE	Bahnhof Falkensee		Bahnhof Falkensee									
-Biberburg	BIBERBURG	Biberburg		Biberburg									
-Boetzow-Bahn	B?TZOW-BAHN	B?tzow-Bahn		B?tzow-Bahn									
+Bhf Falkensee	FALKENSEE, BHF.	Falkensee, Bahnhof		Falkensee, Bahnhof	;QYDIKa604 651 652 653 654 655 656 X37							
+Biberburg	BIBERBURG	Biberburg		Biberburg	a134 N34 X34								
+Boetzow-Bahn	BÖTZOW-BAHN	Bötzow-Bahn		Bötzow-Bahn									
 Borchertweg	BORCHERTWEG	Borchertweg		Borchertweg									
 Breite Str/Markt	BREITE STR/MARKT	Breitestr./Markt		Breitestr./Markt									
-Brunsbuetteler D/Ruhlebener Str	BRUNSB.D/RUHLSTR	Brunsbütteler D./	Ruhlebener Str.	Brunsb.D./Ruhl. Str.									
+Brunsbuetteler D/Ruhlebener Str	BRUNSB.D/RUHLSTR	Brunsbütteler D./	Ruhlebener Str.	Brunsbütteler Damm/Ruhlebener Str.	a134 135 137 638 M32 M36 M37 M45 N34 X36 X37								
 Brunsbuetteler Damm	NENNHAUSER DAMM	Nennhauser Damm		Nennhauser Damm									
-Dallgower Str	DALLGOWER STR.	Dallgower Str.		Dallgower Str.									
+Dallgower Str	DALLGOWER STR.	Dallgower Str.		Dallgower Str.	a130 237 N30								
 Dyrotzer Str	DYROTZER STR.	Dyrotzer Str.		Dyrotzer Str.									
 Egelpfuhlstr	EGELPFUHLSTR.	Egelpfuhlstr.		Egelpfuhlstr.									
-Elsflether Weg	ELSFLETHER WEG	Elsflether Weg		Elsflether Weg									
+Elsflether Weg	ELSFLETHER WEG	Elsflether Weg		Elsflether Weg	aM32 X36 X37								
 Eschenweg	ESCHENWEG	Eschenweg		Eschenweg									
-F_Hamburger Str	F.HAMBURGER STR.	Falkensee	Hamburger Str.	Falk.Hamburger Str.									
-F_Humboldtallee	HUMBOLDTALLEE	Falkensee	Humboldtallee	Humboldtallee									
-F_Koelner Str	FALK.K?LNER STR.	Falkensee	K?lner Str.	Falk. K?lner Str.									
-F_Rathaus	FALK. RATHAUS	Falkensee Rathaus		Falkensee Rathaus									
-F_Seegefelder Str	SEEGEFELDER STR.	Falkensee	Seegefelder Str.	Seegefelder Str.									
-F_Siedlereck	FALK. SIEDLERECK	Falkensee	Siedlereck	Falkensee Siedlereck									
-Falkenseer Ch Freud	FALK/FREUDSTR.	Falkenseer Ch./	Freudstr.	Falkens.Ch/Freudstr.									
-Falkenseer Ch/Stadtrandstr	FALK/STADTRANDST	Falkenseer Ch./	Stadtrandstr.	Falk./Stadtrandstr.									
-Falkenseer Ch/Zeppelinstr	FALK/ZEPPELINSTR	Falkenseer Ch./	Zeppelinstr.	Falk. Ch./Zeppelin									
-Falkenseer Pl	FALKENSEER PL.	Falkenseer Platz		Falkenseer Platz									
-Fernbahnhof Spandau	FERNBHF. SPANDAU	Fernbhf. Spandau		Fernbahnhof Spandau									
+F_Hamburger Str	FALK. HAMBURGER STR.	Falkensee,	Hamburger Str.	Falkensee, Hamburger Str.									
+F_Humboldtallee	FALK. HUMBOLDTALLEE	Falkensee,	Humboldtallee	Falkensee, Humboldtallee									
+F_Koelner Str	FALK. KÖLNER STR.	Falkensee,	Kölner Str.	Falkensee, Kölner Str.									
+F_Rathaus	FALKENSEE, RATHAUS	Falkensee,	Rathaus	Falkensee, Rathaus	a604 651 653 654 656 X37								
+F_Seegefelder Str	SEEGEFELDER STR.	Falkensee,	Seegefelder Str.	Falkensee, Seegefelder Str.									
+F_Siedlereck	FALK. SIEDLERECK	Falkensee,	Siedlereck	Falkensee, Siedlereck	a652 X37								
+Falkenseer Ch Freud	FALK/FREUDSTR.	Falkenseer Ch./	Freudstr.	Falkenseer Chaussee/Freudstr.	a137 X37								
+Falkenseer Ch/Stadtrandstr	FALK/STADTRANDST	Falkenseer Ch./	Stadtrandstr.	Falkenseer Chaussee/Stadtrandstr.	a137 M37 X37									
+Falkenseer Ch/Zeppelinstr	FALK/ZEPPELINSTR	Falkenseer Ch./	Zeppelinstr.	Falkenseer Chaussee/Zeppelinstr.	a130 137 337 M37 N30 X37									
+Falkenseer Pl	FALKENSEER PL.	Falkenseer Platz		Falkenseer Platz	a137 M37								
+Fernbahnhof Spandau	FERNBHF. SPANDAU	Fernbhf. Spandau		Fernbahnhof Spandau	;qBa130								
 Finnenhaus-Siedlung	FINNENHAUS-SDLG.	Finnenhaus-Siedlung		Finnenhaus-Siedlung									
 Flankenschanze	FLANKENSCHANZE	Flankenschanze		Flankenschanze									
 Flugplatz Gatow	FLUGPLATZ GATOW	Flugplatz Gatow		Flugplatz Gatow									
