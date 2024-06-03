@@ -1,0 +1,2712 @@
+Diese Datei wurde mit der HOF Suite von Rumpelhans geschrieben.
+This file was written with HOF Suite by Rumpelhans.
+
+*****************************************
+* H O F   F i l e   p r o p e r t i e s *
+*****************************************
+
+[name]
+Berlin-Spandau
+
+[servicetrip]
+Empty
+
+[global_strings]
+6
+Berlin-Spandau
+Berlin-Spandau
+Berlin-Spandau
+00
+00
+00
+
+stringcount_terminus
+26
+
+stringcount_busstop
+9
+
+*****************
+* T e r m i n i *
+*****************
+
+[addterminus_list]
+{ALLEX}	0	Empty
+	1	Maxim-Kolbe-Str
+	2	Alt-Heiligensee
+	3	Altstadt Spandau
+	4	Am Omnibushof
+	5	Stadtgrenze
+	6	Hakenfelde
+	7	Heidebergplan
+	8	Spandau Wasserwerk
+	9	Glienicke Gutshof
+	10	U Ruhleben
+	11	Kladow Hottengrund
+	12	Nervenklinik
+	13	U Rathaus Spandau
+	14	Zoo
+	15	Johannesstift
+	16	Hakenfelde#ueber Goltzstr
+	17	Spektefeld Schulzentrum
+	18	Waldkrankenhaus
+	19	Spektefeld
+	20	Fernbahnhof Spandau
+	21	Brunsbuetteler Damm
+	22	Betriebsfahrt
+	23	Reimerweg
+	24	Freudstr
+	25	Aalemannufer
+[end]
+
+*******************
+* B u s s t o p s *
+*******************
+
+[addbusstop_list]
+Zitadellenweg
+Hoher Steinweg
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Metzer Str
+Melanchthonpl
+Am Omnibushof
+Wilhelmstr
+Heerstr/Wilhelmstr
+Rodensteinstr
+Ruhlebener Str
+U Altstadt Spandau
+Gatower Str
+Kolonie Hasenheide
+Paewesiner Weg
+Seecktstr
+Klosterstr
+Stadtgrenze
+Pillnitzer Weg
+Heerstr 438-446
+Heerstr/Magistratsweg
+Heerstr/Sandstr
+Omnibushof
+Reimerweg
+Maulbeerallee
+Baluschekweg
+Seeburger Weg
+Wroehmaennerpark
+Schm-Knobelsdorf-Str
+Magistratsweg
+Sandheideweg
+Alt-Pichelsdorf
+Gatower Str/Heerstr
+Teltower Str
+Gueterbahn Ruhleben
+Polizei-Direktion-West
+Krematorium Ruhleben
+U Ruhleben
+Machandelweg
+Fernbahnhof Spandau
+Breite Str/Markt
+Galenstr
+Staakener Str
+Petzoldweg
+Zeppelinstr
+Spekteweg
+Merziger Str
+Westerwaldstr
+Frankenwaldstr
+Am Kiesteich
+Spektefeld
+Paul-Gerhardt-Ring
+Spektefeld Schulzentrum
+Hochhausweg
+Falkenseer Ch/Stadtrandstr
+Gluehwuermchenweg
+Zum Waldkrankenhaus
+Griesingerstr
+Nervenklinik
+Muelheimer Str
+Siegener Str
+Seegefelder Str/Zeppelinstr
+Dallgower Str
+Stresowpl
+Grenadierstr
+Tiefwerderweg
+Waldkrankenhaus
+Reichsstr
+Brunsbütteler D
+Pichelswerderstr
+Freiheit 16-43
+Klaerwerkstr/Freiheit
+Schulzenstr
+Hohenzollernring/Galenstr
+Jenneweg
+Borchertweg
+Hohenzollernring
+Zweibruecker Str
+Pionierstr
+Elsflether Weg
+Falkenseer Damm
+Flankenschanze
+Askanierring
+Wasserwerkstr
+Beerwinkel
+Am Bogen
+Stadtrandstr
+Freudstr Falk
+Freudstr
+Falkenseer Ch Freud
+Falkenseer Pl
+Obstallee
+Blasewitzer Ring
+Im Spektefeld
+[end]
+
+***************
+* R o u t e s *
+***************
+
+[infosystem_trip]
+1301
+13_AHe-MaxK
+1
+13
+
+[infosystem_busstop_list]
+12
+Zitadellenweg
+Hoher Steinweg
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Metzer Str
+Melanchthonpl
+Am Omnibushof
+Wilhelmstr
+Heerstr/Wilhelmstr
+Rodensteinstr
+
+[infosystem_trip]
+1302
+13_MaxK-AHe
+2
+13
+
+[infosystem_busstop_list]
+11
+Rodensteinstr
+Heerstr/Wilhelmstr
+Am Omnibushof
+Melanchthonpl
+Metzer Str
+Seeburger Str
+Ruhlebener Str
+U Rathaus Spandau
+Moritzstr
+U Altstadt Spandau
+Zitadellenweg
+
+[infosystem_trip]
+1303
+13N_AMOM-UASP
+3
+13
+
+[infosystem_busstop_list]
+14
+Am Omnibushof
+Gatower Str
+Am Omnibushof
+Am Omnibushof
+Melanchthonpl
+Kolonie Hasenheide
+Seeburger Str
+Paewesiner Weg
+Seecktstr
+Klosterstr
+Ruhlebener Str
+U Rathaus Spandau
+Moritzstr
+U Altstadt Spandau
+
+[infosystem_trip]
+1304
+13N_STAD-UASP
+3
+13
+
+[infosystem_busstop_list]
+18
+Stadtgrenze
+Stadtgrenze
+Pillnitzer Weg
+Heerstr 438-446
+Heerstr/Magistratsweg
+Heerstr/Sandstr
+Wilhelmstr
+Am Omnibushof
+Melanchthonpl
+Kolonie Hasenheide
+Seeburger Str
+Paewesiner Weg
+Seecktstr
+Klosterstr
+Ruhlebener Str
+U Rathaus Spandau
+Moritzstr
+U Altstadt Spandau
+
+[infosystem_trip]
+1305
+13N_UASP_AMOM(BF)
+4
+13
+
+[infosystem_busstop_list]
+13
+U Altstadt Spandau
+Hoher Steinweg
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Seecktstr
+Paewesiner Weg
+Seeburger Str
+Kolonie Hasenheide
+Melanchthonpl
+Am Omnibushof
+Omnibushof
+
+[infosystem_trip]
+1306
+13N_UASP-AMOM
+4
+13
+
+[infosystem_busstop_list]
+13
+U Altstadt Spandau
+Hoher Steinweg
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Seecktstr
+Paewesiner Weg
+Seeburger Str
+Kolonie Hasenheide
+Melanchthonpl
+Am Omnibushof
+Am Omnibushof
+
+[infosystem_trip]
+1307
+13N_UASP-STAD
+5
+13
+
+[infosystem_busstop_list]
+22
+U Altstadt Spandau
+Hoher Steinweg
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Seecktstr
+Paewesiner Weg
+Seeburger Str
+Kolonie Hasenheide
+Melanchthonpl
+Am Omnibushof
+Wilhelmstr
+Heerstr/Wilhelmstr
+Wilhelmstr
+Heerstr/Sandstr
+Heerstr/Magistratsweg
+Heerstr 438-446
+Pillnitzer Weg
+Reimerweg
+Reimerweg
+Stadtgrenze
+
+[infosystem_trip]
+3101
+31_Hdbpl-Hkf
+6
+31
+
+[infosystem_busstop_list]
+11
+Maulbeerallee
+Baluschekweg
+Seeburger Weg
+Seeburger Str
+Kolonie Hasenheide
+Melanchthonpl
+Seeburger Str
+Ruhlebener Str
+U Rathaus Spandau
+Moritzstr
+Wroehmaennerpark
+
+[infosystem_trip]
+3102
+31_Hkf-Hdbpl
+7
+31
+
+[infosystem_busstop_list]
+11
+Wroehmaennerpark
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Melanchthonpl
+Kolonie Hasenheide
+Schm-Knobelsdorf-Str
+Maulbeerallee
+Baluschekweg
+Magistratsweg
+
+[infosystem_trip]
+3401
+34_Glien-Wasserw
+8
+34
+
+[infosystem_busstop_list]
+8
+Sandheideweg
+Gatower Str
+Alt-Pichelsdorf
+Seeburger Str
+Ruhlebener Str
+U Rathaus Spandau
+Moritzstr
+Wroehmaennerpark
+
+[infosystem_trip]
+3402
+34_Wasserw-Glien
+9
+34
+
+[infosystem_busstop_list]
+7
+Wroehmaennerpark
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Alt-Pichelsdorf
+Gatower Str/Heerstr
+
+[infosystem_trip]
+3403
+34N_Glien-Hakenf
+6
+34
+
+[infosystem_busstop_list]
+9
+Sandheideweg
+Gatower Str/Heerstr
+Am Omnibushof
+Melanchthonpl
+Seeburger Str
+Ruhlebener Str
+U Rathaus Spandau
+Moritzstr
+Wroehmaennerpark
+
+[infosystem_trip]
+3404
+34N_Hakenf-Glien
+9
+34
+
+[infosystem_busstop_list]
+8
+Wroehmaennerpark
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Melanchthonpl
+Am Omnibushof
+Gatower Str/Heerstr
+
+[infosystem_trip]
+3501
+35_KladowHot-Ruhl
+10
+35
+
+[infosystem_busstop_list]
+11
+Sandheideweg
+Gatower Str/Heerstr
+Am Omnibushof
+Melanchthonpl
+Teltower Str
+Gueterbahn Ruhleben
+Polizei-Direktion-West
+Krematorium Ruhleben
+U Ruhleben
+Machandelweg
+U Ruhleben
+
+[infosystem_trip]
+3502
+35_Ruhl-KladowHot
+11
+35
+
+[infosystem_busstop_list]
+9
+U Ruhleben
+U Ruhleben
+Krematorium Ruhleben
+Polizei-Direktion-West
+Gueterbahn Ruhleben
+Teltower Str
+Melanchthonpl
+Am Omnibushof
+Gatower Str/Heerstr
+
+[infosystem_trip]
+501
+5_FBhf S-Nerv
+12
+5
+
+[infosystem_busstop_list]
+23
+Fernbahnhof Spandau
+Fernbahnhof Spandau
+Breite Str/Markt
+U Rathaus Spandau
+Galenstr
+Staakener Str
+Petzoldweg
+Zeppelinstr
+Spekteweg
+Merziger Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Am Kiesteich
+Spektefeld
+Paul-Gerhardt-Ring
+Spektefeld Schulzentrum
+Hochhausweg
+Falkenseer Ch/Stadtrandstr
+Gluehwuermchenweg
+Zum Waldkrankenhaus
+Griesingerstr
+Nervenklinik
+
+[infosystem_trip]
+502
+5_Nerv-RSp
+13
+5
+
+[infosystem_busstop_list]
+21
+Nervenklinik
+Nervenklinik
+Griesingerstr
+Zum Waldkrankenhaus
+Gluehwuermchenweg
+Falkenseer Ch/Stadtrandstr
+Hochhausweg
+Spektefeld Schulzentrum
+Paul-Gerhardt-Ring
+Spektefeld
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Merziger Str
+Spekteweg
+Seegefelder Str/Zeppelinstr
+Dallgower Str
+Staakener Str
+Galenstr
+U Rathaus Spandau
+
+[infosystem_trip]
+503
+5_Nerv-Ruhl
+10
+5
+
+[infosystem_busstop_list]
+32
+Nervenklinik
+Nervenklinik
+Griesingerstr
+Zum Waldkrankenhaus
+Gluehwuermchenweg
+Falkenseer Ch/Stadtrandstr
+Hochhausweg
+Spektefeld Schulzentrum
+Paul-Gerhardt-Ring
+Spektefeld
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Merziger Str
+Spekteweg
+Seegefelder Str/Zeppelinstr
+Dallgower Str
+Staakener Str
+Galenstr
+U Rathaus Spandau
+Breite Str/Markt
+Stresowpl
+Grenadierstr
+Tiefwerderweg
+Teltower Str
+Gueterbahn Ruhleben
+Polizei-Direktion-West
+Krematorium Ruhleben
+U Ruhleben
+Machandelweg
+U Ruhleben
+
+[infosystem_trip]
+504
+5_Ruhl-Nerv
+12
+5
+
+[infosystem_busstop_list]
+30
+U Ruhleben
+U Ruhleben
+Krematorium Ruhleben
+Polizei-Direktion-West
+Gueterbahn Ruhleben
+Teltower Str
+Tiefwerderweg
+Grenadierstr
+Stresowpl
+Breite Str/Markt
+U Rathaus Spandau
+Galenstr
+Staakener Str
+Petzoldweg
+Zeppelinstr
+Spekteweg
+Merziger Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Am Kiesteich
+Spektefeld
+Paul-Gerhardt-Ring
+Spektefeld Schulzentrum
+Hochhausweg
+Falkenseer Ch/Stadtrandstr
+Gluehwuermchenweg
+Zum Waldkrankenhaus
+Griesingerstr
+Nervenklinik
+
+[infosystem_trip]
+505
+5_Waldkr-Ruhl
+10
+5
+
+[infosystem_busstop_list]
+31
+Waldkrankenhaus
+Waldkrankenhaus
+Zum Waldkrankenhaus
+Gluehwuermchenweg
+Falkenseer Ch/Stadtrandstr
+Hochhausweg
+Spektefeld Schulzentrum
+Paul-Gerhardt-Ring
+Spektefeld
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Merziger Str
+Spekteweg
+Seegefelder Str/Zeppelinstr
+Dallgower Str
+Staakener Str
+Galenstr
+U Rathaus Spandau
+Breite Str/Markt
+Stresowpl
+Grenadierstr
+Tiefwerderweg
+Teltower Str
+Gueterbahn Ruhleben
+Polizei-Direktion-West
+Krematorium Ruhleben
+U Ruhleben
+Machandelweg
+U Ruhleben
+
+[infosystem_trip]
+5401
+54_Joh-Zoo
+14
+54
+
+[infosystem_busstop_list]
+12
+Wroehmaennerpark
+Moritzstr
+U Rathaus Spandau
+Ruhlebener Str
+Tiefwerderweg
+Teltower Str
+Gueterbahn Ruhleben
+Polizei-Direktion-West
+Krematorium Ruhleben
+U Ruhleben
+Machandelweg
+Reichsstr
+
+[infosystem_trip]
+5402
+54_Zoo-Joh
+15
+54
+
+[infosystem_busstop_list]
+12
+Reichsstr
+Machandelweg
+U Ruhleben
+Krematorium Ruhleben
+Polizei-Direktion-West
+Gueterbahn Ruhleben
+Teltower Str
+Tiefwerderweg
+Brunsbütteler D
+U Rathaus Spandau
+Moritzstr
+Wroehmaennerpark
+
+[infosystem_trip]
+5403
+54N_Joh-Zoo
+14
+54
+
+[infosystem_busstop_list]
+12
+Wroehmaennerpark
+Moritzstr
+U Rathaus Spandau
+Ruhlebener Str
+Tiefwerderweg
+Teltower Str
+Gueterbahn Ruhleben
+Polizei-Direktion-West
+Krematorium Ruhleben
+U Ruhleben
+Machandelweg
+Reichsstr
+
+[infosystem_trip]
+5404
+54N_Zoo-Joh
+15
+54
+
+[infosystem_busstop_list]
+12
+Reichsstr
+Machandelweg
+U Ruhleben
+Krematorium Ruhleben
+Polizei-Direktion-West
+Gueterbahn Ruhleben
+Teltower Str
+Tiefwerderweg
+Brunsbütteler D
+U Rathaus Spandau
+Moritzstr
+Wroehmaennerpark
+
+[infosystem_trip]
+5601
+56_Hakenf_Ruhl
+10
+56
+
+[infosystem_busstop_list]
+12
+Wroehmaennerpark
+Moritzstr
+U Rathaus Spandau
+Breite Str/Markt
+Fernbahnhof Spandau
+Pichelswerderstr
+Freiheit 16-43
+Klaerwerkstr/Freiheit
+Krematorium Ruhleben
+U Ruhleben
+Machandelweg
+U Ruhleben
+
+[infosystem_trip]
+5602
+56_Ruhl-Hakenf
+16
+56
+
+[infosystem_busstop_list]
+12
+U Ruhleben
+U Ruhleben
+Krematorium Ruhleben
+Klaerwerkstr/Freiheit
+Freiheit 16-43
+Pichelswerderstr
+Fernbahnhof Spandau
+Breite Str/Markt
+U Rathaus Spandau
+U Rathaus Spandau
+Moritzstr
+Wroehmaennerpark
+
+[infosystem_trip]
+506
+5E_FBhf S-SpSchul
+17
+5
+
+[infosystem_busstop_list]
+17
+Fernbahnhof Spandau
+Fernbahnhof Spandau
+Breite Str/Markt
+U Rathaus Spandau
+Galenstr
+Staakener Str
+Petzoldweg
+Zeppelinstr
+Spekteweg
+Merziger Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Am Kiesteich
+Spektefeld
+Paul-Gerhardt-Ring
+Spektefeld Schulzentrum
+
+[infosystem_trip]
+507
+5E_FBhf S-Waldkr
+18
+5
+
+[infosystem_busstop_list]
+22
+Fernbahnhof Spandau
+Fernbahnhof Spandau
+Breite Str/Markt
+U Rathaus Spandau
+Galenstr
+Staakener Str
+Petzoldweg
+Zeppelinstr
+Spekteweg
+Merziger Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Am Kiesteich
+Spektefeld
+Paul-Gerhardt-Ring
+Spektefeld Schulzentrum
+Hochhausweg
+Falkenseer Ch/Stadtrandstr
+Gluehwuermchenweg
+Zum Waldkrankenhaus
+Waldkrankenhaus
+
+[infosystem_trip]
+508
+5E_FBhf S-Ww
+19
+5
+
+[infosystem_busstop_list]
+12
+Fernbahnhof Spandau
+Fernbahnhof Spandau
+Breite Str/Markt
+U Rathaus Spandau
+Galenstr
+Staakener Str
+Petzoldweg
+Zeppelinstr
+Spekteweg
+Merziger Str
+Zeppelinstr
+Westerwaldstr
+
+[infosystem_trip]
+509
+5E_SpSchul-FBhf S
+20
+5
+
+[infosystem_busstop_list]
+17
+Spektefeld Schulzentrum
+Spektefeld Schulzentrum
+Paul-Gerhardt-Ring
+Spektefeld
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Merziger Str
+Spekteweg
+Seegefelder Str/Zeppelinstr
+Dallgower Str
+Staakener Str
+Galenstr
+U Rathaus Spandau
+Breite Str/Markt
+Fernbahnhof Spandau
+
+[infosystem_trip]
+510
+5E_SpSchul-RSp (N)
+13
+5
+
+[infosystem_busstop_list]
+15
+Spektefeld Schulzentrum
+Spektefeld Schulzentrum
+Paul-Gerhardt-Ring
+Spektefeld
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Merziger Str
+Spekteweg
+Seegefelder Str/Zeppelinstr
+Dallgower Str
+Staakener Str
+Galenstr
+U Rathaus Spandau
+
+[infosystem_trip]
+511
+5E_SpSchul-RSp
+13
+5
+
+[infosystem_busstop_list]
+16
+Spektefeld Schulzentrum
+Spektefeld Schulzentrum
+Paul-Gerhardt-Ring
+Spektefeld
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Merziger Str
+Spekteweg
+Seegefelder Str/Zeppelinstr
+Dallgower Str
+Staakener Str
+Galenstr
+U Rathaus Spandau
+U Rathaus Spandau
+
+[infosystem_trip]
+512
+5E_Waldkr-FBhf S
+20
+5
+
+[infosystem_busstop_list]
+22
+Waldkrankenhaus
+Waldkrankenhaus
+Zum Waldkrankenhaus
+Gluehwuermchenweg
+Falkenseer Ch/Stadtrandstr
+Hochhausweg
+Spektefeld Schulzentrum
+Paul-Gerhardt-Ring
+Spektefeld
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Merziger Str
+Spekteweg
+Seegefelder Str/Zeppelinstr
+Dallgower Str
+Staakener Str
+Galenstr
+U Rathaus Spandau
+Breite Str/Markt
+Fernbahnhof Spandau
+
+[infosystem_trip]
+513
+5E_Waldkr-RSp (E)
+13
+5
+
+[infosystem_busstop_list]
+20
+Waldkrankenhaus
+Waldkrankenhaus
+Zum Waldkrankenhaus
+Gluehwuermchenweg
+Falkenseer Ch/Stadtrandstr
+Hochhausweg
+Spektefeld Schulzentrum
+Paul-Gerhardt-Ring
+Spektefeld
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Merziger Str
+Spekteweg
+Seegefelder Str/Zeppelinstr
+Dallgower Str
+Staakener Str
+Galenstr
+U Rathaus Spandau
+
+[infosystem_trip]
+514
+5E_Ww-FBhf S
+20
+5
+
+[infosystem_busstop_list]
+12
+Westerwaldstr
+Siegener Str
+Zeppelinstr
+Merziger Str
+Spekteweg
+Seegefelder Str/Zeppelinstr
+Dallgower Str
+Staakener Str
+Galenstr
+U Rathaus Spandau
+Breite Str/Markt
+Fernbahnhof Spandau
+
+[infosystem_trip]
+515
+5N_Nerv-RSp (A)
+13
+5
+
+[infosystem_busstop_list]
+21
+Nervenklinik
+Nervenklinik
+Griesingerstr
+Zum Waldkrankenhaus
+Gluehwuermchenweg
+Falkenseer Ch/Stadtrandstr
+Hochhausweg
+Spektefeld Schulzentrum
+Paul-Gerhardt-Ring
+Spektefeld
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Merziger Str
+Spekteweg
+Seegefelder Str/Zeppelinstr
+Dallgower Str
+Staakener Str
+Galenstr
+U Rathaus Spandau
+
+[infosystem_trip]
+516
+5N_Nerv-RSp
+13
+5
+
+[infosystem_busstop_list]
+22
+Nervenklinik
+Nervenklinik
+Griesingerstr
+Zum Waldkrankenhaus
+Gluehwuermchenweg
+Falkenseer Ch/Stadtrandstr
+Hochhausweg
+Spektefeld Schulzentrum
+Paul-Gerhardt-Ring
+Spektefeld
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Merziger Str
+Spekteweg
+Seegefelder Str/Zeppelinstr
+Dallgower Str
+Staakener Str
+Galenstr
+U Rathaus Spandau
+U Rathaus Spandau
+
+[infosystem_trip]
+517
+5N_RSp-Nerv
+12
+5
+
+[infosystem_busstop_list]
+21
+U Rathaus Spandau
+U Rathaus Spandau
+Galenstr
+Staakener Str
+Petzoldweg
+Zeppelinstr
+Spekteweg
+Merziger Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Am Kiesteich
+Spektefeld
+Paul-Gerhardt-Ring
+Spektefeld Schulzentrum
+Hochhausweg
+Falkenseer Ch/Stadtrandstr
+Gluehwuermchenweg
+Zum Waldkrankenhaus
+Griesingerstr
+Nervenklinik
+
+[infosystem_trip]
+6301
+63_Heidebergpl-Waldkr
+18
+63
+
+[infosystem_busstop_list]
+13
+Schulzenstr
+Seegefelder Str/Zeppelinstr
+Dallgower Str
+Staakener Str
+Galenstr
+U Rathaus Spandau
+Moritzstr
+Hohenzollernring/Galenstr
+Jenneweg
+Borchertweg
+Hohenzollernring
+Zweibruecker Str
+Zeppelinstr
+
+[infosystem_trip]
+6302
+63_Waldkr-Heidebergpl
+7
+63
+
+[infosystem_busstop_list]
+13
+Pionierstr
+Zeppelinstr
+Zweibruecker Str
+Hohenzollernring
+Borchertweg
+Jenneweg
+Hohenzollernring/Galenstr
+Moritzstr
+U Rathaus Spandau
+Galenstr
+Staakener Str
+Petzoldweg
+Zeppelinstr
+
+[infosystem_trip]
+8001
+80_Brunsb-RSp
+13
+80
+
+[infosystem_busstop_list]
+4
+Elsflether Weg
+Ruhlebener Str
+U Rathaus Spandau
+U Rathaus Spandau
+
+[infosystem_trip]
+8002
+80_RSp-Brunb
+21
+80
+
+[infosystem_busstop_list]
+4
+U Rathaus Spandau
+U Rathaus Spandau
+Brunsbuetteler D
+Elsflether Weg
+
+[infosystem_trip]
+9201
+92 BF Hof S-Fd
+22
+92
+
+[infosystem_busstop_list]
+21
+Omnibushof
+Am Omnibushof
+Melanchthonpl
+Metzer Str
+Seeburger Str
+Ruhlebener Str
+Moritzstr
+Falkenseer Damm
+Flankenschanze
+Askanierring
+Hohenzollernring
+Zweibruecker Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Wasserwerkstr
+Beerwinkel
+Am Bogen
+Stadtrandstr
+Freudstr Falk
+Freudstr
+
+[infosystem_trip]
+9202
+92 Fd-Rm
+23
+92
+
+[infosystem_busstop_list]
+31
+Freudstr
+Freudstr
+Falkenseer Ch Freud
+Stadtrandstr
+Am Bogen
+Beerwinkel
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Zweibruecker Str
+Hohenzollernring
+Askanierring
+Flankenschanze
+Falkenseer Pl
+U Altstadt Spandau
+Hoher Steinweg
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Seecktstr
+Paewesiner Weg
+Schm-Knobelsdorf-Str
+Maulbeerallee
+Obstallee
+Heerstr/Sandstr
+Heerstr/Magistratsweg
+Heerstr 438-446
+Pillnitzer Weg
+Reimerweg
+
+[infosystem_trip]
+9203
+92 Fd-RSp
+13
+92
+
+[infosystem_busstop_list]
+19
+Freudstr
+Freudstr
+Falkenseer Ch Freud
+Stadtrandstr
+Am Bogen
+Beerwinkel
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Zweibruecker Str
+Hohenzollernring
+Askanierring
+Flankenschanze
+Falkenseer Pl
+U Altstadt Spandau
+Hoher Steinweg
+Moritzstr
+U Rathaus Spandau
+
+[infosystem_trip]
+9204
+92 Fd-Sg
+5
+92
+
+[infosystem_busstop_list]
+31
+Freudstr
+Freudstr
+Falkenseer Ch Freud
+Stadtrandstr
+Am Bogen
+Beerwinkel
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Zweibruecker Str
+Hohenzollernring
+Askanierring
+Flankenschanze
+Falkenseer Pl
+U Altstadt Spandau
+Hoher Steinweg
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Seecktstr
+Paewesiner Weg
+Schm-Knobelsdorf-Str
+Maulbeerallee
+Obstallee
+Heerstr/Sandstr
+Heerstr/Magistratsweg
+Heerstr 438-446
+Pillnitzer Weg
+Stadtgrenze
+
+[infosystem_trip]
+9205
+92 Kloster-Fd
+24
+92
+
+[infosystem_busstop_list]
+20
+Seeburger Str
+Ruhlebener Str
+U Rathaus Spandau
+Moritzstr
+U Altstadt Spandau
+Hoher Steinweg
+Falkenseer Damm
+Flankenschanze
+Askanierring
+Hohenzollernring
+Zweibruecker Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Wasserwerkstr
+Beerwinkel
+Am Bogen
+Stadtrandstr
+Freudstr Falk
+Freudstr
+
+[infosystem_trip]
+9206
+92 Rm-Fd
+24
+92
+
+[infosystem_busstop_list]
+31
+Reimerweg
+Reimerweg
+Pillnitzer Weg
+Heerstr 438-446
+Heerstr/Magistratsweg
+Heerstr/Sandstr
+Blasewitzer Ring
+Seeburger Weg
+Seeburger Str
+Paewesiner Weg
+Seecktstr
+Klosterstr
+Ruhlebener Str
+U Rathaus Spandau
+Moritzstr
+U Altstadt Spandau
+Hoher Steinweg
+Falkenseer Damm
+Flankenschanze
+Askanierring
+Hohenzollernring
+Zweibruecker Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Wasserwerkstr
+Beerwinkel
+Am Bogen
+Stadtrandstr
+Freudstr Falk
+Freudstr
+
+[infosystem_trip]
+9207
+92 Rm-RSp
+13
+92
+
+[infosystem_busstop_list]
+15
+Reimerweg
+Reimerweg
+Pillnitzer Weg
+Heerstr 438-446
+Heerstr/Magistratsweg
+Heerstr/Sandstr
+Blasewitzer Ring
+Seeburger Weg
+Seeburger Str
+Paewesiner Weg
+Seecktstr
+Klosterstr
+Ruhlebener Str
+U Rathaus Spandau
+U Rathaus Spandau
+
+[infosystem_trip]
+9208
+92 Sand-Fd
+24
+92
+
+[infosystem_busstop_list]
+26
+Heerstr/Sandstr
+Blasewitzer Ring
+Seeburger Weg
+Seeburger Str
+Paewesiner Weg
+Seecktstr
+Klosterstr
+Ruhlebener Str
+U Rathaus Spandau
+Moritzstr
+U Altstadt Spandau
+Hoher Steinweg
+Falkenseer Damm
+Flankenschanze
+Askanierring
+Hohenzollernring
+Zweibruecker Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Wasserwerkstr
+Beerwinkel
+Am Bogen
+Stadtrandstr
+Freudstr Falk
+Freudstr
+
+[infosystem_trip]
+9209
+92 Sg-Fd
+24
+92
+
+[infosystem_busstop_list]
+31
+Stadtgrenze
+Stadtgrenze
+Pillnitzer Weg
+Heerstr 438-446
+Heerstr/Magistratsweg
+Heerstr/Sandstr
+Blasewitzer Ring
+Seeburger Weg
+Seeburger Str
+Paewesiner Weg
+Seecktstr
+Klosterstr
+Ruhlebener Str
+U Rathaus Spandau
+Moritzstr
+U Altstadt Spandau
+Hoher Steinweg
+Falkenseer Damm
+Flankenschanze
+Askanierring
+Hohenzollernring
+Zweibruecker Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Wasserwerkstr
+Beerwinkel
+Am Bogen
+Stadtrandstr
+Freudstr Falk
+Freudstr
+
+[infosystem_trip]
+9210
+92 Sg-RSp
+13
+92
+
+[infosystem_busstop_list]
+15
+Stadtgrenze
+Stadtgrenze
+Pillnitzer Weg
+Heerstr 438-446
+Heerstr/Magistratsweg
+Heerstr/Sandstr
+Blasewitzer Ring
+Seeburger Weg
+Seeburger Str
+Paewesiner Weg
+Seecktstr
+Klosterstr
+Ruhlebener Str
+U Rathaus Spandau
+U Rathaus Spandau
+
+[infosystem_trip]
+9211
+92E Galen-Kies
+19
+92
+
+[infosystem_busstop_list]
+16
+Galenstr
+U Rathaus Spandau
+Moritzstr
+U Altstadt Spandau
+Hoher Steinweg
+Falkenseer Damm
+Flankenschanze
+Askanierring
+Hohenzollernring
+Zweibruecker Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Am Kiesteich
+Spektefeld
+Im Spektefeld
+
+[infosystem_trip]
+9212
+92E Kies-Galen
+13
+92
+
+[infosystem_busstop_list]
+16
+Im Spektefeld
+Spektefeld
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Zweibruecker Str
+Hohenzollernring
+Askanierring
+Flankenschanze
+Falkenseer Pl
+U Altstadt Spandau
+Hoher Steinweg
+Moritzstr
+U Rathaus Spandau
+Galenstr
+
+[infosystem_trip]
+9213
+92E Kies-Rm
+23
+92
+
+[infosystem_busstop_list]
+27
+Im Spektefeld
+Spektefeld
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Zweibruecker Str
+Hohenzollernring
+Askanierring
+Flankenschanze
+Falkenseer Pl
+U Altstadt Spandau
+Hoher Steinweg
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Seecktstr
+Paewesiner Weg
+Schm-Knobelsdorf-Str
+Maulbeerallee
+Obstallee
+Heerstr/Sandstr
+Heerstr/Magistratsweg
+Heerstr 438-446
+Pillnitzer Weg
+Reimerweg
+
+[infosystem_trip]
+9214
+92E Klost-Kies
+19
+92
+
+[infosystem_busstop_list]
+17
+Seeburger Str
+Ruhlebener Str
+U Rathaus Spandau
+Moritzstr
+U Altstadt Spandau
+Hoher Steinweg
+Falkenseer Damm
+Flankenschanze
+Askanierring
+Hohenzollernring
+Zweibruecker Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Am Kiesteich
+Spektefeld
+Im Spektefeld
+
+[infosystem_trip]
+9215
+92E Rm-RSp (T)
+13
+92
+
+[infosystem_busstop_list]
+15
+Reimerweg
+Reimerweg
+Pillnitzer Weg
+Heerstr 438-446
+Heerstr/Magistratsweg
+Heerstr/Sandstr
+Blasewitzer Ring
+Seeburger Weg
+Seeburger Str
+Paewesiner Weg
+Seecktstr
+Klosterstr
+Ruhlebener Str
+U Rathaus Spandau
+U Rathaus Spandau
+
+[infosystem_trip]
+9216
+92E RSp (T)-Rm
+23
+92
+
+[infosystem_busstop_list]
+14
+U Rathaus Spandau
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Seecktstr
+Paewesiner Weg
+Schm-Knobelsdorf-Str
+Maulbeerallee
+Obstallee
+Heerstr/Sandstr
+Heerstr/Magistratsweg
+Heerstr 438-446
+Pillnitzer Weg
+Reimerweg
+
+[infosystem_trip]
+9217
+92E Ww-Rm
+23
+92
+
+[infosystem_busstop_list]
+24
+Westerwaldstr
+Siegener Str
+Zeppelinstr
+Zweibruecker Str
+Hohenzollernring
+Askanierring
+Flankenschanze
+Falkenseer Pl
+U Altstadt Spandau
+Hoher Steinweg
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Seecktstr
+Paewesiner Weg
+Schm-Knobelsdorf-Str
+Maulbeerallee
+Obstallee
+Heerstr/Sandstr
+Heerstr/Magistratsweg
+Heerstr 438-446
+Pillnitzer Weg
+Reimerweg
+
+[infosystem_trip]
+9401
+94_Gtw-Rm
+23
+94
+
+[infosystem_busstop_list]
+7
+Gatower Str
+Wilhelmstr
+Heerstr/Sandstr
+Heerstr/Magistratsweg
+Heerstr 438-446
+Pillnitzer Weg
+Reimerweg
+
+[infosystem_trip]
+9402
+94_Rm-Zoo
+14
+94
+
+[infosystem_busstop_list]
+9
+Reimerweg
+Reimerweg
+Pillnitzer Weg
+Heerstr 438-446
+Heerstr/Magistratsweg
+Heerstr/Sandstr
+Wilhelmstr
+Gatower Str
+Alt-Pichelsdorf
+
+[infosystem_trip]
+9403
+94_Zoo-Rm
+23
+94
+
+[infosystem_busstop_list]
+8
+Alt-Pichelsdorf
+Gatower Str
+Wilhelmstr
+Heerstr/Sandstr
+Heerstr/Magistratsweg
+Heerstr 438-446
+Pillnitzer Weg
+Reimerweg
+
+[infosystem_trip]
+9404
+94N_Heidebergpl-Zoo
+14
+94
+
+[infosystem_busstop_list]
+7
+Maulbeerallee
+Heerstr/Magistratsweg
+Heerstr/Sandstr
+Wilhelmstr
+Am Omnibushof
+Gatower Str
+Alt-Pichelsdorf
+
+[infosystem_trip]
+9405
+94N_Zoo-Heidebergpl
+7
+94
+
+[infosystem_busstop_list]
+9
+Alt-Pichelsdorf
+Gatower Str/Heerstr
+Am Omnibushof
+Wilhelmstr
+Heerstr/Wilhelmstr
+Wilhelmstr
+Heerstr/Sandstr
+Magistratsweg
+Magistratsweg
+
+[infosystem_trip]
+9701
+97_Brunsb-KOber
+25
+97
+
+[infosystem_busstop_list]
+11
+Maulbeerallee
+Heerstr/Magistratsweg
+Heerstr/Sandstr
+Wilhelmstr
+Gatower Str
+Alt-Pichelsdorf
+Seeburger Str
+Ruhlebener Str
+U Rathaus Spandau
+Moritzstr
+Wroehmaennerpark
+
+[infosystem_trip]
+9702
+97_KOber-Brunsb
+21
+97
+
+[infosystem_busstop_list]
+11
+Wroehmaennerpark
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Alt-Pichelsdorf
+Gatower Str
+Wilhelmstr
+Heerstr/Sandstr
+Magistratsweg
+Magistratsweg
+
+[infosystem_trip]
+101
+BF 92E Galen-Kies
+22
+1
+
+[infosystem_busstop_list]
+14
+Galenstr
+U Rathaus Spandau
+Moritzstr
+Falkenseer Damm
+Flankenschanze
+Askanierring
+Hohenzollernring
+Zweibruecker Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Am Kiesteich
+Spektefeld
+Im Spektefeld
+
+[infosystem_trip]
+9218
+BF 92E Kies-Galen
+22
+92
+
+[infosystem_busstop_list]
+14
+Im Spektefeld
+Spektefeld
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Zweibruecker Str
+Hohenzollernring
+Askanierring
+Flankenschanze
+Falkenseer Pl
+Moritzstr
+U Rathaus Spandau
+Galenstr
+
+[infosystem_trip]
+9219
+BF 92E Rm-RSp
+22
+92
+
+[infosystem_busstop_list]
+15
+Reimerweg
+Reimerweg
+Pillnitzer Weg
+Heerstr 438-446
+Heerstr/Magistratsweg
+Heerstr/Sandstr
+Blasewitzer Ring
+Seeburger Weg
+Seeburger Str
+Paewesiner Weg
+Seecktstr
+Klosterstr
+Ruhlebener Str
+U Rathaus Spandau
+U Rathaus Spandau
+
+[infosystem_trip]
+9220
+BF 92E RSp-Rm
+22
+92
+
+[infosystem_busstop_list]
+14
+U Rathaus Spandau
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Seecktstr
+Paewesiner Weg
+Schm-Knobelsdorf-Str
+Maulbeerallee
+Baluschekweg
+Maulbeerallee
+Heerstr/Magistratsweg
+Heerstr 438-446
+Pillnitzer Weg
+Reimerweg
+
+[infosystem_trip]
+102
+BF Fd-Hof S
+22
+1
+
+[infosystem_busstop_list]
+23
+Freudstr
+Freudstr
+Falkenseer Ch Freud
+Stadtrandstr
+Am Bogen
+Beerwinkel
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Zweibruecker Str
+Hohenzollernring
+Askanierring
+Flankenschanze
+Falkenseer Pl
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Metzer Str
+Melanchthonpl
+Am Omnibushof
+Omnibushof
+
+[infosystem_trip]
+103
+BF Hof S-FBhf S
+22
+1
+
+[infosystem_busstop_list]
+9
+Omnibushof
+Am Omnibushof
+Melanchthonpl
+Metzer Str
+Seeburger Str
+Ruhlebener Str
+U Rathaus Spandau
+Breite Str/Markt
+Fernbahnhof Spandau
+
+[infosystem_trip]
+104
+BF Hof S-Kies
+22
+1
+
+[infosystem_busstop_list]
+18
+Omnibushof
+Am Omnibushof
+Melanchthonpl
+Metzer Str
+Seeburger Str
+Ruhlebener Str
+Moritzstr
+Falkenseer Damm
+Flankenschanze
+Askanierring
+Hohenzollernring
+Zweibruecker Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Am Kiesteich
+Spektefeld
+Im Spektefeld
+
+[infosystem_trip]
+105
+BF Hof S-Kloster
+22
+1
+
+[infosystem_busstop_list]
+5
+Omnibushof
+Am Omnibushof
+Melanchthonpl
+Metzer Str
+Seeburger Str
+
+[infosystem_trip]
+106
+BF Hof S-Rm
+22
+1
+
+[infosystem_busstop_list]
+9
+Omnibushof
+Wilhelmstr
+Heerstr/Wilhelmstr
+Wilhelmstr
+Heerstr/Sandstr
+Heerstr/Magistratsweg
+Heerstr 438-446
+Pillnitzer Weg
+Reimerweg
+
+[infosystem_trip]
+107
+BF Hof S-RSp(N)
+22
+1
+
+[infosystem_busstop_list]
+7
+Omnibushof
+Am Omnibushof
+Melanchthonpl
+Metzer Str
+Seeburger Str
+Ruhlebener Str
+U Rathaus Spandau
+
+[infosystem_trip]
+108
+BF Hof S-RSp(S)
+22
+1
+
+[infosystem_busstop_list]
+7
+Omnibushof
+Am Omnibushof
+Melanchthonpl
+Metzer Str
+Seeburger Str
+Ruhlebener Str
+U Rathaus Spandau
+
+[infosystem_trip]
+109
+BF Hof S-Ruhl(5)
+22
+1
+
+[infosystem_busstop_list]
+15
+Omnibushof
+Am Omnibushof
+Melanchthonpl
+Metzer Str
+Seeburger Str
+Ruhlebener Str
+Ruhlebener Str
+Tiefwerderweg
+Teltower Str
+Gueterbahn Ruhleben
+Polizei-Direktion-West
+Krematorium Ruhleben
+U Ruhleben
+Machandelweg
+U Ruhleben
+
+[infosystem_trip]
+110
+BF Hof S-Sand
+22
+1
+
+[infosystem_busstop_list]
+5
+Omnibushof
+Wilhelmstr
+Heerstr/Wilhelmstr
+Wilhelmstr
+Heerstr/Sandstr
+
+[infosystem_trip]
+111
+BF Hof S-Sg
+22
+1
+
+[infosystem_busstop_list]
+9
+Omnibushof
+Wilhelmstr
+Heerstr/Wilhelmstr
+Wilhelmstr
+Heerstr/Sandstr
+Heerstr/Magistratsweg
+Heerstr 438-446
+Pillnitzer Weg
+Stadtgrenze
+
+[infosystem_trip]
+112
+BF Kies-Hof S
+22
+1
+
+[infosystem_busstop_list]
+19
+Im Spektefeld
+Spektefeld
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Zweibruecker Str
+Hohenzollernring
+Askanierring
+Flankenschanze
+Falkenseer Pl
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Metzer Str
+Melanchthonpl
+Am Omnibushof
+Omnibushof
+
+[infosystem_trip]
+113
+BF Nerv-Hof S
+22
+1
+
+[infosystem_busstop_list]
+25
+Nervenklinik
+Nervenklinik
+Griesingerstr
+Zum Waldkrankenhaus
+Gluehwuermchenweg
+Stadtrandstr
+Am Bogen
+Beerwinkel
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Zweibruecker Str
+Hohenzollernring
+Askanierring
+Flankenschanze
+Falkenseer Pl
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Metzer Str
+Melanchthonpl
+Am Omnibushof
+Omnibushof
+
+[infosystem_trip]
+114
+BF Rm (94)-Hof S
+22
+1
+
+[infosystem_busstop_list]
+8
+Reimerweg
+Reimerweg
+Pillnitzer Weg
+Heerstr 438-446
+Heerstr/Magistratsweg
+Heerstr/Sandstr
+Wilhelmstr
+Omnibushof
+
+[infosystem_trip]
+115
+BF Rm-Hof S
+22
+1
+
+[infosystem_busstop_list]
+8
+Reimerweg
+Reimerweg
+Pillnitzer Weg
+Heerstr 438-446
+Heerstr/Magistratsweg
+Heerstr/Sandstr
+Wilhelmstr
+Omnibushof
+
+[infosystem_trip]
+116
+BF RSp(E)-Hof S
+22
+1
+
+[infosystem_busstop_list]
+7
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Metzer Str
+Melanchthonpl
+Am Omnibushof
+Omnibushof
+
+[infosystem_trip]
+117
+BF RSp(M)-Hof S
+22
+1
+
+[infosystem_busstop_list]
+7
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Metzer Str
+Melanchthonpl
+Am Omnibushof
+Omnibushof
+
+[infosystem_trip]
+118
+BF RSp(N)-Hof S
+22
+1
+
+[infosystem_busstop_list]
+8
+U Rathaus Spandau
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Metzer Str
+Melanchthonpl
+Am Omnibushof
+Omnibushof
+
+[infosystem_trip]
+119
+BF RSp(S)-Hof S
+22
+1
+
+[infosystem_busstop_list]
+8
+U Rathaus Spandau
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Metzer Str
+Melanchthonpl
+Am Omnibushof
+Omnibushof
+
+[infosystem_trip]
+120
+BF RSp-Hof S
+22
+1
+
+[infosystem_busstop_list]
+7
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Metzer Str
+Melanchthonpl
+Am Omnibushof
+Omnibushof
+
+[infosystem_trip]
+121
+BF RSp-SpSchul
+22
+1
+
+[infosystem_busstop_list]
+14
+U Rathaus Spandau
+Moritzstr
+Falkenseer Damm
+Flankenschanze
+Askanierring
+Hohenzollernring
+Zweibruecker Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Am Kiesteich
+Spektefeld
+Paul-Gerhardt-Ring
+Spektefeld Schulzentrum
+
+[infosystem_trip]
+122
+BF Ruhl (5)-Hof S
+22
+1
+
+[infosystem_busstop_list]
+13
+U Ruhleben
+U Ruhleben
+Krematorium Ruhleben
+Polizei-Direktion-West
+Gueterbahn Ruhleben
+Teltower Str
+Tiefwerderweg
+Brunsbuetteler D
+Seeburger Str
+Metzer Str
+Melanchthonpl
+Am Omnibushof
+Omnibushof
+
+[infosystem_trip]
+123
+BF Sg-Hof S
+22
+1
+
+[infosystem_busstop_list]
+8
+Stadtgrenze
+Stadtgrenze
+Pillnitzer Weg
+Heerstr 438-446
+Heerstr/Magistratsweg
+Heerstr/Sandstr
+Wilhelmstr
+Omnibushof
+
+[infosystem_trip]
+124
+BF Waldkr(S)-Hof S
+22
+1
+
+[infosystem_busstop_list]
+24
+Waldkrankenhaus
+Waldkrankenhaus
+Zum Waldkrankenhaus
+Gluehwuermchenweg
+Stadtrandstr
+Am Bogen
+Beerwinkel
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Zweibruecker Str
+Hohenzollernring
+Askanierring
+Flankenschanze
+Falkenseer Pl
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Metzer Str
+Melanchthonpl
+Am Omnibushof
+Omnibushof
+
+[infosystem_trip]
+125
+BF_AMOM-HOFS
+22
+1
+
+[infosystem_busstop_list]
+2
+Am Omnibushof
+Omnibushof
+
+[infosystem_trip]
+126
+BF_Galenstr-Hof S
+22
+1
+
+[infosystem_busstop_list]
+6
+Galenstr
+Brunsbuetteler D
+Seeburger Str
+Melanchthonpl
+Am Omnibushof
+Omnibushof
+
+[infosystem_trip]
+127
+BF_Hof S-Galenstr
+22
+1
+
+[infosystem_busstop_list]
+6
+Am Omnibushof
+Melanchthonpl
+Metzer Str
+Seeburger Str
+Ruhlebener Str
+Galenstr
+
+[infosystem_trip]
+128
+BF_Hof S-Nerv
+22
+1
+
+[infosystem_busstop_list]
+24
+Omnibushof
+Am Omnibushof
+Melanchthonpl
+Metzer Str
+Seeburger Str
+Ruhlebener Str
+Moritzstr
+Falkenseer Damm
+Flankenschanze
+Askanierring
+Hohenzollernring
+Zweibruecker Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Wasserwerkstr
+Beerwinkel
+Am Bogen
+Stadtrandstr
+Falkenseer Ch/Stadtrandstr
+Gluehwuermchenweg
+Zum Waldkrankenhaus
+Griesingerstr
+Nervenklinik
+
+[infosystem_trip]
+129
+BF_Hof S-SpSchul
+22
+1
+
+[infosystem_busstop_list]
+19
+Omnibushof
+Am Omnibushof
+Melanchthonpl
+Metzer Str
+Seeburger Str
+Ruhlebener Str
+Moritzstr
+Falkenseer Damm
+Flankenschanze
+Askanierring
+Hohenzollernring
+Zweibruecker Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Am Kiesteich
+Spektefeld
+Paul-Gerhardt-Ring
+Spektefeld Schulzentrum
+
+[infosystem_trip]
+130
+BF_Hof S-Waldkr
+22
+1
+
+[infosystem_busstop_list]
+23
+Omnibushof
+Am Omnibushof
+Melanchthonpl
+Metzer Str
+Seeburger Str
+Ruhlebener Str
+Moritzstr
+Falkenseer Damm
+Flankenschanze
+Askanierring
+Hohenzollernring
+Zweibruecker Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Wasserwerkstr
+Beerwinkel
+Am Bogen
+Stadtrandstr
+Falkenseer Ch/Stadtrandstr
+Gluehwuermchenweg
+Zum Waldkrankenhaus
+Waldkrankenhaus
+
+[infosystem_trip]
+131
+BF_Hof S-Ww
+22
+1
+
+[infosystem_busstop_list]
+14
+Omnibushof
+Am Omnibushof
+Melanchthonpl
+Metzer Str
+Seeburger Str
+Ruhlebener Str
+Moritzstr
+Falkenseer Damm
+Flankenschanze
+Askanierring
+Hohenzollernring
+Zweibruecker Str
+Zeppelinstr
+Westerwaldstr
+
+[infosystem_trip]
+132
+BF_HOFS-UASP
+22
+1
+
+[infosystem_busstop_list]
+8
+Omnibushof
+Am Omnibushof
+Melanchthonpl
+Metzer Str
+Seeburger Str
+Ruhlebener Str
+Moritzstr
+U Altstadt Spandau
+
+[infosystem_trip]
+133
+BF_RSp-Waldkr
+22
+1
+
+[infosystem_busstop_list]
+18
+U Rathaus Spandau
+Moritzstr
+Falkenseer Damm
+Flankenschanze
+Askanierring
+Hohenzollernring
+Zweibruecker Str
+Zeppelinstr
+Westerwaldstr
+Frankenwaldstr
+Wasserwerkstr
+Beerwinkel
+Am Bogen
+Stadtrandstr
+Falkenseer Ch/Stadtrandstr
+Gluehwuermchenweg
+Zum Waldkrankenhaus
+Waldkrankenhaus
+
+[infosystem_trip]
+134
+BF_SpSchul-Hof S
+22
+1
+
+[infosystem_busstop_list]
+21
+Spektefeld Schulzentrum
+Spektefeld Schulzentrum
+Paul-Gerhardt-Ring
+Spektefeld
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Zweibruecker Str
+Hohenzollernring
+Askanierring
+Flankenschanze
+Falkenseer Pl
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Metzer Str
+Melanchthonpl
+Am Omnibushof
+Omnibushof
+
+[infosystem_trip]
+135
+BF_Waldkr-FBhf S
+22
+1
+
+[infosystem_busstop_list]
+20
+Waldkrankenhaus
+Waldkrankenhaus
+Zum Waldkrankenhaus
+Gluehwuermchenweg
+Stadtrandstr
+Am Bogen
+Beerwinkel
+Am Kiesteich
+Muelheimer Str
+Siegener Str
+Zeppelinstr
+Zweibruecker Str
+Hohenzollernring
+Askanierring
+Flankenschanze
+Falkenseer Pl
+Moritzstr
+U Rathaus Spandau
+Breite Str/Markt
+Fernbahnhof Spandau
+
+[infosystem_trip]
+136
+BF_Ww-FBhf S
+22
+1
+
+[infosystem_busstop_list]
+12
+Westerwaldstr
+Siegener Str
+Zeppelinstr
+Zweibruecker Str
+Hohenzollernring
+Askanierring
+Flankenschanze
+Falkenseer Pl
+Moritzstr
+U Rathaus Spandau
+Breite Str/Markt
+Fernbahnhof Spandau
+
+[infosystem_trip]
+137
+BF_Ww-Hof S
+22
+1
+
+[infosystem_busstop_list]
+16
+Westerwaldstr
+Siegener Str
+Zeppelinstr
+Zweibruecker Str
+Hohenzollernring
+Askanierring
+Flankenschanze
+Falkenseer Pl
+Moritzstr
+U Rathaus Spandau
+Brunsbuetteler D
+Seeburger Str
+Metzer Str
+Melanchthonpl
+Am Omnibushof
+Omnibushof
+
+[infosystem_trip]
+138
+Hof S-Gtw_W
+22
+1
+
+[infosystem_busstop_list]
+4
+Omnibushof
+Am Omnibushof
+Am Omnibushof
+Gatower Str
+
