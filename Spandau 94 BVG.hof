@@ -6,7 +6,7 @@ This file was written with HOF Suite by Rumpelhans.
 *****************************************
 
 [name]
-Berlin-Spandau
+Berlin-Spandau 94
 
 [servicetrip]
 Empty
@@ -16,9 +16,9 @@ Empty
 Berlin-Spandau
 Berlin-Spandau
 Berlin-Spandau
-00
-00
-00
+10
+26
+36
 
 stringcount_terminus
 26
