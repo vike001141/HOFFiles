@@ -49,7 +49,7 @@ stringcount_terminus
 	[string7:	Kr�ger-Bitmap] (wird f�r diesen Hof nicht ben�tigt)											
 													
 stringcount_busstop													
-4													
+9											
 													
 New type of command for a better arranged terminus list. Each column has its special meaning:													
 Attention: now with automatic centering ANNAX!													
