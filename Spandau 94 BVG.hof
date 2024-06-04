@@ -29,8 +29,8 @@ stringcount_busstop
 *****************
 * T e r m i n i *
 *****************
-		String1	string2	string3	string4	string5			String7								string 15 	string 16	string17	string18							str25	str26	
-		omsi target och rullgardin	vet it	Ziel Überschreiben Rad 1	Ziel Überschreiben Rad 2	vet it			vet it		textur						front topprad	front nedre rad	sida bak topprad	sida bak nedre rad							infotainment slide 1	infotainment slide 2	
+		String1	string2	string3	string4	string5		String7							string 15 	string 16	string17	string18							str25	str26	
+		omsi target och rullgardin	vet it	Ziel Überschreiben Rad 1	Ziel Überschreiben Rad 2	vet it		vet it	textur						front topprad	front nedre rad	sida bak topprad	sida bak nedre rad							infotainment slide 1	infotainment slide 2	
 [addterminus_list]
 {ALLEX}	0	Empty											
 	150	Schulbus	SCHULBUS		SCHULBUS	SCHULBUS		Schulbus					
