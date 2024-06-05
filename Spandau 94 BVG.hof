@@ -1269,8 +1269,77 @@ Breite Str/Markt
 Fernbahnhof Spandau													
 													
 	
-
-
+===============================================================================													
+	N30:												
+===============================================================================													
+													
+	Rathaus - Nervenklinik												
+-----------------------------------													
+													
+[infosystem_trip]													
+93001													
+URAT-NERV													
+170													
+N30													
+													
+................													
+													
+[infosystem_busstop_list]													
+20													
+U Rathaus Spandau													
+Galenstr													
+Staakener Str													
+Dallgower Str													
+Zeppelinstr/Seegefelder Str													
+Spekteweg													
+Merziger Str													
+Falkenseer Ch/Zeppelinstr													
+Siegener Str													
+Muelheimer Str													
+Wasserwerkstr													
+Spektefeld													
+Paul-Gerhardt-Ring													
+Spektefeld/Schulzentrum													
+Hochhausweg													
+Falkenseer Ch/Stadtrandstr													
+Gluehwuermchenweg													
+Griesingerstr/Waldkrankenhaus													
+Griesingerstr													
+Nervenklinik													
+													
+	Nervenklinik - Rathaus												
+-----------------------------------													
+													
+[infosystem_trip]													
+93002													
+NERV-URAT													
+154													
+N30													
+													
+................													
+													
+[infosystem_busstop_list]													
+20													
+Nervenklinik													
+Griesingerstr													
+Griesingerstr/Waldkrankenhaus													
+Gluehwuermchenweg													
+Falkenseer Ch/Stadtrandstr													
+Hochhausweg													
+Spektefeld/Schulzentrum													
+Paul-Gerhardt-Ring													
+Spektefeld													
+Wasserwerkstr													
+Muelheimer Str													
+Siegener Str													
+Falkenseer Ch/Zeppelinstr													
+Merziger Str													
+Spekteweg													
+Zeppelinstr/Seegefelder Str													
+Dallgower Str													
+Staakener Str													
+Galenstr													
+U Rathaus Spandau	
 
 [infosystem_trip]
 1301
