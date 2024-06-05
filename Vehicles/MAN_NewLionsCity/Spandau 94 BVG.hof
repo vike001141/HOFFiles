@@ -65,7 +65,7 @@ stringcount_busstop
 	133	F_Seegefelder Str	Seegefelder Str.	Falkensee	Seegefelder Str.	Seegefelder Str.		Seegefelder Str.								Falkensee	Seegefelder Str.	Falkensee	Seegefelder Str.							Falkensee	Seegefelder Str.
 	465	F_Str Einheit	Str. Der Einheit	Falkensee	Str. Der Einheit	Str. Der Einheit		Falkensee Str. Der Einheit								Falkensee	Str. Der Einheit	Falkensee	Str. Der Einheit							Falkensee	Str. Der Einheit
 	154	U Rathaus Spandau		S+U Rathaus Spandau		Rathaus Spandau		S+U Rathaus Spandau								S+U Rathaus Spandau		S+U Rathaus Spandau	
-		997	TestAnzeige	String no 2	Ziel Überschreiben 1	Ziel Überschreiben 2	String no 5		Infotainment								Num 4	Num 5	Num 6	Num 7							Infotainment 1	Infotainment 2	
+	997	TestAnzeige	String no 2	Ziel Überschreiben 1	Ziel Überschreiben 2	String no 5		Infotainment								Num 4	Num 5	Num 6	Num 7							Infotainment 1	Infotainment 2	
 [end]
 
 *******************
