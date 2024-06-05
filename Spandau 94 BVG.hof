@@ -486,7 +486,7 @@ URAT-NERV
 ................													
 													
 [infosystem_busstop_list]													
-20
+21
 U Rathaus Spandau													
 U Rathaus Spandau													
 Galenstr													
@@ -522,7 +522,8 @@ NERV-URAT
 ................													
 													
 [infosystem_busstop_list]													
-20													
+21
+Nervenklinik													
 Nervenklinik													
 Griesingerstr													
 Griesingerstr/Waldkrankenhaus													
@@ -557,7 +558,8 @@ URAT-SIEG
 ................													
 													
 [infosystem_busstop_list]													
-9													
+10
+U Rathaus Spandau													
 U Rathaus Spandau													
 Galenstr													
 Staakener Str													
@@ -604,7 +606,8 @@ URAT-SPEK
 ................													
 													
 [infosystem_busstop_list]													
-14													
+15
+U Rathaus Spandau													
 U Rathaus Spandau													
 Galenstr													
 Staakener Str													
@@ -632,7 +635,8 @@ SPEK-URAT
 ................													
 													
 [infosystem_busstop_list]													
-14													
+15
+Spektefeld/Schulzentrum													
 Spektefeld/Schulzentrum													
 Paul-Gerhardt-Ring													
 Spektefeld													
@@ -661,7 +665,8 @@ URAT-WALD
 ................													
 													
 [infosystem_busstop_list]													
-19													
+20
+U Rathaus Spandau													
 U Rathaus Spandau													
 Galenstr													
 Staakener Str													
@@ -694,7 +699,8 @@ WALD-URAT
 ................													
 													
 [infosystem_busstop_list]													
-19													
+20
+Waldkrankenhaus													
 Waldkrankenhaus													
 Griesingerstr/Waldkrankenhaus													
 Gluehwuermchenweg													
@@ -728,7 +734,8 @@ URUH-URAT
 ................													
 													
 [infosystem_busstop_list]													
-10													
+11
+U Ruhleben													
 U Ruhleben													
 Krematorium Ruhleben													
 Polizeidirektion 2													
@@ -754,7 +761,8 @@ URAT-URUH
 ................													
 													
 [infosystem_busstop_list]													
-12													
+13
+U Rathaus Spandau													
 U Rathaus Spandau													
 Breite Str/Markt													
 Stresowpl													
@@ -784,7 +792,8 @@ URUH-SIEG
 ................													
 													
 [infosystem_busstop_list]													
-18													
+19
+U Ruhleben													
 U Ruhleben													
 Krematorium Ruhleben													
 Polizeidirektion 2													
@@ -852,7 +861,8 @@ URUH-SPEK
 ................													
 													
 [infosystem_busstop_list]													
-23													
+24
+U Ruhleben													
 U Ruhleben													
 Krematorium Ruhleben													
 Polizeidirektion 2													
@@ -890,7 +900,8 @@ SPEK-URUH
 ................													
 													
 [infosystem_busstop_list]													
-25													
+26
+Spektefeld/Schulzentrum													
 Spektefeld/Schulzentrum													
 Paul-Gerhardt-Ring													
 Spektefeld													
@@ -929,7 +940,8 @@ URUH-WALD
 ................													
 													
 [infosystem_busstop_list]													
-28													
+29
+U Ruhleben													
 U Ruhleben													
 Krematorium Ruhleben													
 Polizeidirektion 2													
@@ -972,7 +984,8 @@ WALD-URUH
 ................													
 													
 [infosystem_busstop_list]													
-30													
+31
+Waldkrankenhaus													
 Waldkrankenhaus													
 Griesingerstr/Waldkrankenhaus													
 Gluehwuermchenweg													
@@ -1016,7 +1029,8 @@ FBHF-NERV
 ................													
 													
 [infosystem_busstop_list]													
-22													
+23
+Fernbahnhof Spandau													
 Fernbahnhof Spandau													
 Breite Str/Markt													
 U Rathaus Spandau													
@@ -1053,7 +1067,8 @@ NERV-FBHF
 ................													
 													
 [infosystem_busstop_list]													
-22													
+23
+Nervenklinik													
 Nervenklinik													
 Griesingerstr													
 Griesingerstr/Waldkrankenhaus													
@@ -1093,7 +1108,8 @@ FBHF-SIEG
 ................													
 													
 [infosystem_busstop_list]													
-11													
+12
+Fernbahnhof Spandau													
 Fernbahnhof Spandau													
 Breite Str/Markt													
 U Rathaus Spandau													
@@ -1146,7 +1162,8 @@ FBHF-SPEK
 ................													
 													
 [infosystem_busstop_list]													
-16													
+17
+Fernbahnhof Spandau													
 Fernbahnhof Spandau													
 Breite Str/Markt													
 U Rathaus Spandau													
@@ -1177,7 +1194,8 @@ SPEK-FBHF
 ................													
 													
 [infosystem_busstop_list]													
-16													
+17
+Spektefeld/Schulzentrum													
 Spektefeld/Schulzentrum													
 Paul-Gerhardt-Ring													
 Spektefeld													
@@ -1209,7 +1227,8 @@ FBHF-WALD
 ................													
 													
 [infosystem_busstop_list]													
-21													
+22
+Fernbahnhof Spandau													
 Fernbahnhof Spandau													
 Breite Str/Markt													
 U Rathaus Spandau													
@@ -1245,7 +1264,8 @@ WALD-FBHF
 ................													
 													
 [infosystem_busstop_list]													
-21													
+22
+Waldkrankenhaus													
 Waldkrankenhaus													
 Griesingerstr/Waldkrankenhaus													
 Gluehwuermchenweg													
@@ -1285,7 +1305,8 @@ N30
 ................													
 													
 [infosystem_busstop_list]													
-20													
+21
+U Rathaus Spandau													
 U Rathaus Spandau													
 Galenstr													
 Staakener Str													
@@ -1319,7 +1340,8 @@ N30
 ................													
 													
 [infosystem_busstop_list]													
-20													
+21
+Nervenklinik													
 Nervenklinik													
 Griesingerstr													
 Griesingerstr/Waldkrankenhaus													
@@ -1358,7 +1380,8 @@ FREU-HAHN
 ................													
 													
 [infosystem_busstop_list]													
-30													
+31
+Freudstr													
 Freudstr													
 Falkenseer Ch Freud													
 Falkenseer Ch/Stadtrandstr													
@@ -1402,7 +1425,8 @@ HAHN-FREU
 ................													
 													
 [infosystem_busstop_list]													
-30													
+31
+Hahneberg													
 Hahneberg													
 Pillnitzer Weg													
 Heerstr 438-446													
@@ -1446,7 +1470,8 @@ FREU-REIM
 ................													
 													
 [infosystem_busstop_list]													
-30													
+31
+Freudstr													
 Freudstr													
 Falkenseer Ch Freud													
 Falkenseer Ch/Stadtrandstr													
@@ -1490,7 +1515,8 @@ REIM-FREU
 ................													
 													
 [infosystem_busstop_list]													
-30													
+31
+Reimerweg													
 Reimerweg													
 Pillnitzer Weg													
 Heerstr 438-446													
@@ -1539,7 +1565,8 @@ FALK-HAHN
 ................													
 													
 [infosystem_busstop_list]													
-36													
+37
+Bhf Falkensee													
 Bhf Falkensee													
 F_Seegefelder Str													
 F_Rathaus													
@@ -1589,7 +1616,8 @@ HAHN-FALK
 ................													
 													
 [infosystem_busstop_list]													
-36													
+37
+Hahneberg													
 Hahneberg													
 Pillnitzer Weg													
 Heerstr 438-446													
@@ -1641,7 +1669,8 @@ FALK-REIM
 ................													
 													
 [infosystem_busstop_list]													
-36													
+37
+Bhf Falkensee													
 Bhf Falkensee													
 F_Seegefelder Str													
 F_Rathaus													
@@ -1691,7 +1720,8 @@ REIM-FALK
 ................													
 													
 [infosystem_busstop_list]													
-36													
+37
+Reimerweg													
 Reimerweg													
 Pillnitzer Weg													
 Heerstr 438-446													
@@ -1754,7 +1784,8 @@ URAT-HAHN
 ................													
 													
 [infosystem_busstop_list]													
-13													
+14
+U Rathaus Spandau													
 U Rathaus Spandau													
 Brunsbuetteler D/Ruhlebener Str													
 Ziegelhof													
@@ -1781,7 +1812,8 @@ HAHN-URAT
 ................													
 													
 [infosystem_busstop_list]													
-13													
+14
+Hahneberg													
 Hahneberg													
 Pillnitzer Weg													
 Heerstr 438-446													
@@ -1808,7 +1840,8 @@ URAT-REIM
 ................													
 													
 [infosystem_busstop_list]													
-13													
+14
+U Rathaus Spandau													
 U Rathaus Spandau													
 Brunsbuetteler D/Ruhlebener Str													
 Ziegelhof													
@@ -1835,7 +1868,8 @@ REIM-URAT
 ................													
 													
 [infosystem_busstop_list]													
-13													
+14
+Reimerweg													
 Reimerweg													
 Pillnitzer Weg													
 Heerstr 438-446													
@@ -1862,7 +1896,8 @@ KIES-URAT
 ................													
 													
 [infosystem_busstop_list]													
-14													
+15
+Spektefeld													
 Spektefeld													
 Wasserwerkstr													
 Muelheimer Str													
@@ -1890,7 +1925,8 @@ URAT-KIES
 ................													
 													
 [infosystem_busstop_list]													
-14													
+15
+U Rathaus Spandau													
 U Rathaus Spandau													
 Moritzstr													
 U Altstadt Spandau													
@@ -1918,7 +1954,8 @@ KIES-HAHN
 ................													
 													
 [infosystem_busstop_list]													
-26													
+27
+Spektefeld													
 Spektefeld													
 Wasserwerkstr													
 Muelheimer Str													
@@ -1958,7 +1995,8 @@ HAHN-KIES
 ................													
 													
 [infosystem_busstop_list]													
-26													
+27
+Hahneberg													
 Hahneberg													
 Pillnitzer Weg													
 Heerstr 438-446													
@@ -1998,7 +2036,8 @@ KIES-REIM
 ................													
 													
 [infosystem_busstop_list]													
-26													
+27
+Spektefeld													
 Spektefeld													
 Wasserwerkstr													
 Muelheimer Str													
@@ -2038,7 +2077,8 @@ GALE-FALK
 ................													
 													
 [infosystem_busstop_list]													
-24													
+25
+Galenstr													
 Galenstr													
 U Rathaus Spandau													
 Moritzstr													
@@ -2077,7 +2117,8 @@ REIM-KIES
 ................													
 													
 [infosystem_busstop_list]													
-26													
+27
+Reimerweg													
 Reimerweg													
 Pillnitzer Weg													
 Heerstr 438-446													
@@ -2118,7 +2159,8 @@ URAT-KIES
 ................													
 													
 [infosystem_busstop_list]													
-15													
+16
+Galenstr													
 Galenstr													
 U Rathaus Spandau													
 Moritzstr													
@@ -2172,7 +2214,8 @@ URAT-SIEG
 													
 													
 [infosystem_busstop_list]													
-11													
+12
+U Rathaus Spandau													
 U Rathaus Spandau													
 Moritzstr													
 U Altstadt Spandau													
@@ -2235,7 +2278,8 @@ HAHN-SIEG
 ................													
 													
 [infosystem_busstop_list]													
-23													
+24
+Hahneberg													
 Hahneberg													
 Pillnitzer Weg													
 Heerstr 438-446													
@@ -2310,7 +2354,8 @@ REIM-SIEG
 ................													
 													
 [infosystem_busstop_list]													
-23													
+24
+Reimerweg													
 Reimerweg													
 Pillnitzer Weg													
 Heerstr 438-446													
@@ -2348,7 +2393,8 @@ URAT-SIEG
 													
 													
 [infosystem_busstop_list]													
-12													
+13
+Galenstr													
 Galenstr													
 U Rathaus Spandau													
 Moritzstr													
@@ -2372,7 +2418,8 @@ FREU-URAT
 137													
 													
 [infosystem_busstop_list]													
-18													
+19
+Freudstr													
 Freudstr													
 Falkenseer Ch Freud													
 Falkenseer Ch/Stadtrandstr													
@@ -2402,7 +2449,8 @@ URAT-FREU
 137													
 													
 [infosystem_busstop_list]													
-18													
+19
+U Rathaus Spandau													
 U Rathaus Spandau													
 Moritzstr													
 U Altstadt Spandau													
@@ -2433,7 +2481,8 @@ URAT-FREU
 137													
 													
 [infosystem_busstop_list]													
-19													
+20
+Galenstr													
 Galenstr													
 U Rathaus Spandau													
 Moritzstr													
@@ -2466,7 +2515,8 @@ SAND-FREU
 ................													
 													
 [infosystem_busstop_list]													
-26													
+27
+Sandstr													
 Sandstr													
 Obstallee													
 Leubnitzer Weg													
@@ -2507,7 +2557,8 @@ SAND-FALK
 ................													
 													
 [infosystem_busstop_list]													
-31													
+32
+Sandstr													
 Sandstr													
 Obstallee													
 Leubnitzer Weg													
@@ -2553,7 +2604,8 @@ SAND-URAT
 ................													
 													
 [infosystem_busstop_list]													
-9													
+10
+Sandstr													
 Sandstr													
 Obstallee													
 Leubnitzer Weg													
@@ -2576,7 +2628,8 @@ SAND-KIES
 ................													
 													
 [infosystem_busstop_list]													
-22													
+23
+Sandstr													
 Sandstr													
 Obstallee													
 Leubnitzer Weg													
@@ -2612,7 +2665,8 @@ SAND-SIEG
 ................													
 													
 [infosystem_busstop_list]													
-19													
+20
+Sandstr													
 Sandstr													
 Obstallee													
 Leubnitzer Weg													
@@ -2645,7 +2699,8 @@ ZIEG-FALK
 ................													
 													
 [infosystem_busstop_list]													
-25													
+26
+Ziegelhof													
 Ziegelhof													
 Brunsbuetteler D/Ruhlebener Str													
 U Rathaus Spandau													
@@ -2685,7 +2740,8 @@ ZIEG-FREU
 ................													
 													
 [infosystem_busstop_list]													
-20													
+21
+Ziegelhof													
 Ziegelhof													
 Brunsbuetteler D/Ruhlebener Str													
 U Rathaus Spandau													
@@ -2719,7 +2775,8 @@ ZIEG-KIES
 ................													
 													
 [infosystem_busstop_list]													
-16													
+17
+Ziegelhof													
 Ziegelhof													
 Brunsbuetteler D/Ruhlebener Str													
 U Rathaus Spandau													
@@ -2751,7 +2808,8 @@ FALK-URAT
 ................													
 													
 [infosystem_busstop_list]													
-24													
+25
+Bhf Falkensee													
 Bhf Falkensee													
 F_Seegefelder Str													
 F_Rathaus													
@@ -2789,7 +2847,8 @@ URAT-FALK
 ................													
 													
 [infosystem_busstop_list]													
-24													
+25
+U Rathaus Spandau													
 U Rathaus Spandau													
 Moritzstr													
 U Altstadt Spandau													
@@ -2845,7 +2904,8 @@ N33
 ................													
 													
 [infosystem_busstop_list]													
-15													
+16
+U Altstadt Spandau													
 U Altstadt Spandau													
 Moritzstr													
 U Rathaus Spandau													
@@ -2874,7 +2934,8 @@ N33
 ................													
 													
 [infosystem_busstop_list]													
-15													
+16
+Hahneberg													
 Hahneberg													
 Pillnitzer Weg													
 Heerstr 438-446													
