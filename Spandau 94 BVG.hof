@@ -360,6 +360,115 @@ Zweiwinkelweg	ZWEIWINKELWEG	Zweiwinkelweg		Zweiwinkelweg
 ***************
 * R o u t e s *
 ***************
+	[infosystem_trip]												
+	{routecode} (z.B. '540001', integer)												
+	{routestring} (ggf. f?r IBIS-Ger?t oder vieleicht sp?ter auch zum Setzen)												
+	{terminuscode}												
+	{line string} (z.B. '54 ')												
+													
+	[infosystem_busstop]												
+	{string0: IBIS-Name}												
+	{string1: LCD 1. Zeile links}												
+	{string2: LCD 1. Zeile rechts}												
+	{string3: LCD 2. Zeile links}												
+	{string4: LCD 2. Zeile rechts}												
+													
+													
+													
+===============================================================================													
+	130:												
+===============================================================================													
+													
+	Ruhleben - Nervenklinik												
+-----------------------------------													
+													
+[infosystem_trip]													
+13001													
+URUH-NERV													
+170													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+30													
+U Ruhleben
+U Ruhleben													
+Krematorium Ruhleben													
+Polizeidirektion 2													
+Gueterbahnhof Ruhleben													
+Teltower Str													
+Heidereuterstr													
+Grenadierstr													
+Stresowpl													
+Breite Str/Markt													
+U Rathaus Spandau													
+Galenstr													
+Staakener Str													
+Dallgower Str													
+Zeppelinstr/Seegefelder Str													
+Spekteweg													
+Merziger Str													
+Falkenseer Ch/Zeppelinstr													
+Siegener Str													
+Muelheimer Str													
+Wasserwerkstr													
+Spektefeld													
+Paul-Gerhardt-Ring													
+Spektefeld/Schulzentrum													
+Hochhausweg													
+Falkenseer Ch/Stadtrandstr													
+Gluehwuermchenweg													
+Griesingerstr/Waldkrankenhaus													
+Griesingerstr													
+Nervenklinik
+
+													
+	Nervenklinik - Ruhleben												
+-----------------------------------													
+													
+[infosystem_trip]													
+13002													
+NERV-URUH													
+205													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+32
+Nervenklinik													
+Nervenklinik													
+Griesingerstr													
+Griesingerstr/Waldkrankenhaus													
+Gluehwuermchenweg													
+Falkenseer Ch/Stadtrandstr													
+Hochhausweg													
+Spektefeld/Schulzentrum													
+Paul-Gerhardt-Ring													
+Spektefeld													
+Wasserwerkstr													
+Muelheimer Str													
+Siegener Str													
+Falkenseer Ch/Zeppelinstr													
+Merziger Str													
+Spekteweg													
+Zeppelinstr/Seegefelder Str													
+Dallgower Str													
+Staakener Str													
+Galenstr													
+U Rathaus Spandau													
+Breite Str/Markt													
+Stresowpl													
+Grenadierstr													
+Heidereuterstr													
+Teltower Str													
+Gueterbahnhof Ruhleben													
+Polizeidirektion 2													
+Krematorium Ruhleben													
+U Ruhleben													
+Machandelweg													
+U Ruhleben	
 
 [infosystem_trip]
 1301
