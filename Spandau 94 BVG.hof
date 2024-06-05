@@ -336,7 +336,7 @@ Torweg	TORWEG	Torweg		Torweg
 Torweg/Hackbuschstr	TORWEG/HACKBUSCH	Torweg/	Hackbuschstr.	Torweg/Hackbuschstr.									
 Triftstr	TRIFTSTR.	Triftstr.		Triftstr.									
 U Altstadt Spandau	U ALTSTADT SPD.	U Altstadt Spandau		U Altstadt Spandau	jaN7 X33								
-U Rathaus Spandau	U RATHAUS SPD.	S+U Rathaus Spandau		S+U Rathaus Spandau	;QY'DGIKqBja130 134 135 136 137 237 337 638 671 M32 M36 M37 M45 N7 N30 N34 X33 X36 X37							
+U Rathaus Spandau	U RATHAUS SPD.	S+U Rathaus Spandau		S+U Rathaus Spandau	;QY°DGIKqBja130 134 135 136 137 237 337 638 671 M32 M36 M37 M45 N7 N30 N34 X33 X36 X37							
 U Ruhleben	U RUHLEBEN	U Ruhleben		U Ruhleben	da130 131 M45 N2 X37								
 Uebergang	ÜBERGANG	Übergang		Übergang									
 Viersener Str	VIERSENER STR.	Viersener Str.		Viersener Str.									
@@ -469,6 +469,808 @@ Krematorium Ruhleben
 U Ruhleben													
 Machandelweg													
 U Ruhleben	
+
+===============================================================================													
+	130E:												
+===============================================================================													
+													
+	Rathaus - Nervenklinik												
+-----------------------------------													
+													
+[infosystem_trip]													
+13003													
+URAT-NERV													
+170													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+20
+U Rathaus Spandau													
+U Rathaus Spandau													
+Galenstr													
+Staakener Str													
+Dallgower Str													
+Zeppelinstr/Seegefelder Str													
+Spekteweg													
+Merziger Str													
+Falkenseer Ch/Zeppelinstr													
+Siegener Str													
+Muelheimer Str													
+Wasserwerkstr													
+Spektefeld													
+Paul-Gerhardt-Ring													
+Spektefeld/Schulzentrum													
+Hochhausweg													
+Falkenseer Ch/Stadtrandstr													
+Gluehwuermchenweg													
+Griesingerstr/Waldkrankenhaus													
+Griesingerstr													
+Nervenklinik	
+
+													
+	Nervenklinik - Rathaus												
+-----------------------------------													
+													
+[infosystem_trip]													
+13004													
+NERV-URAT													
+154													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+20													
+Nervenklinik													
+Griesingerstr													
+Griesingerstr/Waldkrankenhaus													
+Gluehwuermchenweg													
+Falkenseer Ch/Stadtrandstr													
+Hochhausweg													
+Spektefeld/Schulzentrum													
+Paul-Gerhardt-Ring													
+Spektefeld													
+Wasserwerkstr													
+Muelheimer Str													
+Siegener Str													
+Falkenseer Ch/Zeppelinstr													
+Merziger Str													
+Spekteweg													
+Zeppelinstr/Seegefelder Str													
+Dallgower Str													
+Staakener Str													
+Galenstr													
+U Rathaus Spandau													
+													
+													
+	Rathaus - Siegener Str.												
+-----------------------------------													
+													
+[infosystem_trip]													
+13005													
+URAT-SIEG													
+155													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+9													
+U Rathaus Spandau													
+Galenstr													
+Staakener Str													
+Dallgower Str													
+Zeppelinstr/Seegefelder Str													
+Spekteweg													
+Merziger Str													
+Falkenseer Ch/Zeppelinstr													
+Siegener Str													
+													
+	Siegener Str. - Rathaus												
+-----------------------------------													
+													
+[infosystem_trip]													
+13006													
+SIEG-URAT													
+154													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+10													
+Siegener Str													
+Siegener Str													
+Falkenseer Ch/Zeppelinstr													
+Merziger Str													
+Spekteweg													
+Zeppelinstr/Seegefelder Str													
+Dallgower Str													
+Staakener Str													
+Galenstr													
+U Rathaus Spandau													
+													
+	Rathaus - Spektefeld												
+-----------------------------------													
+													
+[infosystem_trip]													
+13007													
+URAT-SPEK													
+172													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+14													
+U Rathaus Spandau													
+Galenstr													
+Staakener Str													
+Dallgower Str													
+Zeppelinstr/Seegefelder Str													
+Spekteweg													
+Merziger Str													
+Falkenseer Ch/Zeppelinstr													
+Siegener Str													
+Muelheimer Str													
+Wasserwerkstr													
+Spektefeld													
+Paul-Gerhardt-Ring													
+Spektefeld/Schulzentrum													
+													
+	Spektefeld - Rathaus												
+-----------------------------------													
+													
+[infosystem_trip]													
+13008													
+SPEK-URAT													
+154													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+14													
+Spektefeld/Schulzentrum													
+Paul-Gerhardt-Ring													
+Spektefeld													
+Wasserwerkstr													
+Muelheimer Str													
+Siegener Str													
+Falkenseer Ch/Zeppelinstr													
+Merziger Str													
+Spekteweg													
+Zeppelinstr/Seegefelder Str													
+Dallgower Str													
+Staakener Str													
+Galenstr													
+U Rathaus Spandau													
+	
+													
+	Rathaus - Waldkrankenhaus												
+-----------------------------------													
+													
+[infosystem_trip]													
+13009													
+URAT-WALD													
+231													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+19													
+U Rathaus Spandau													
+Galenstr													
+Staakener Str													
+Dallgower Str													
+Zeppelinstr/Seegefelder Str													
+Spekteweg													
+Merziger Str													
+Falkenseer Ch/Zeppelinstr													
+Siegener Str													
+Muelheimer Str													
+Wasserwerkstr													
+Spektefeld													
+Paul-Gerhardt-Ring													
+Spektefeld/Schulzentrum													
+Hochhausweg													
+Falkenseer Ch/Stadtrandstr													
+Gluehwuermchenweg													
+Griesingerstr/Waldkrankenhaus													
+Waldkrankenhaus													
+													
+	Waldkrankenhaus - Rathaus												
+-----------------------------------													
+													
+[infosystem_trip]													
+13010													
+WALD-URAT													
+154													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+19													
+Waldkrankenhaus													
+Griesingerstr/Waldkrankenhaus													
+Gluehwuermchenweg													
+Falkenseer Ch/Stadtrandstr													
+Hochhausweg													
+Spektefeld/Schulzentrum													
+Paul-Gerhardt-Ring													
+Spektefeld													
+Wasserwerkstr													
+Muelheimer Str													
+Siegener Str													
+Falkenseer Ch/Zeppelinstr													
+Merziger Str													
+Spekteweg													
+Zeppelinstr/Seegefelder Str													
+Dallgower Str													
+Staakener Str													
+Galenstr													
+U Rathaus Spandau													
+													
+													
+	Ruhleben - Rathaus												
+-----------------------------------													
+													
+[infosystem_trip]													
+13011													
+URUH-URAT													
+154													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+10													
+U Ruhleben													
+Krematorium Ruhleben													
+Polizeidirektion 2													
+Gueterbahnhof Ruhleben													
+Teltower Str													
+Heidereuterstr													
+Grenadierstr													
+Stresowpl													
+Breite Str/Markt													
+U Rathaus Spandau													
+													
+													
+													
+	Rathaus - Ruhleben												
+-----------------------------------													
+													
+[infosystem_trip]													
+13012													
+URAT-URUH													
+205													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+12													
+U Rathaus Spandau													
+Breite Str/Markt													
+Stresowpl													
+Grenadierstr													
+Heidereuterstr													
+Teltower Str													
+Gueterbahnhof Ruhleben													
+Polizeidirektion 2													
+Krematorium Ruhleben													
+U Ruhleben													
+Machandelweg													
+U Ruhleben													
+													
+													
+													
+													
+													
+	Ruhleben - Siegener Str.												
+-----------------------------------													
+													
+[infosystem_trip]													
+13013													
+URUH-SIEG													
+155													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+18													
+U Ruhleben													
+Krematorium Ruhleben													
+Polizeidirektion 2													
+Gueterbahnhof Ruhleben													
+Teltower Str													
+Heidereuterstr													
+Grenadierstr													
+Stresowpl													
+Breite Str/Markt													
+U Rathaus Spandau													
+Galenstr													
+Staakener Str													
+Dallgower Str													
+Zeppelinstr/Seegefelder Str													
+Spekteweg													
+Merziger Str													
+Falkenseer Ch/Zeppelinstr													
+Siegener Str													
+													
+													
+	Siegener Str. - Ruhleben												
+-----------------------------------													
+													
+[infosystem_trip]													
+13014													
+SIEG-URUH													
+205													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+21													
+Siegener Str													
+Siegener Str													
+Falkenseer Ch/Zeppelinstr													
+Merziger Str													
+Spekteweg													
+Zeppelinstr/Seegefelder Str													
+Dallgower Str													
+Staakener Str													
+Galenstr													
+U Rathaus Spandau													
+Breite Str/Markt													
+Stresowpl													
+Grenadierstr													
+Heidereuterstr													
+Teltower Str													
+Gueterbahnhof Ruhleben													
+Polizeidirektion 2													
+Krematorium Ruhleben													
+U Ruhleben													
+Machandelweg													
+U Ruhleben													
+													
+	Ruhleben - Spektefeld												
+-----------------------------------													
+													
+[infosystem_trip]													
+13015													
+URUH-SPEK													
+172													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+23													
+U Ruhleben													
+Krematorium Ruhleben													
+Polizeidirektion 2													
+Gueterbahnhof Ruhleben													
+Teltower Str													
+Heidereuterstr													
+Grenadierstr													
+Stresowpl													
+Breite Str/Markt													
+U Rathaus Spandau													
+Galenstr													
+Staakener Str													
+Dallgower Str													
+Zeppelinstr/Seegefelder Str													
+Spekteweg													
+Merziger Str													
+Falkenseer Ch/Zeppelinstr													
+Siegener Str													
+Muelheimer Str													
+Wasserwerkstr													
+Spektefeld													
+Paul-Gerhardt-Ring													
+Spektefeld/Schulzentrum													
+													
+													
+	Spektefeld - Ruhleben												
+-----------------------------------													
+													
+[infosystem_trip]													
+13016													
+SPEK-URUH													
+205													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+25													
+Spektefeld/Schulzentrum													
+Paul-Gerhardt-Ring													
+Spektefeld													
+Wasserwerkstr													
+Muelheimer Str													
+Siegener Str													
+Falkenseer Ch/Zeppelinstr													
+Merziger Str													
+Spekteweg													
+Zeppelinstr/Seegefelder Str													
+Dallgower Str													
+Staakener Str													
+Galenstr													
+U Rathaus Spandau													
+Breite Str/Markt													
+Stresowpl													
+Grenadierstr													
+Heidereuterstr													
+Teltower Str													
+Gueterbahnhof Ruhleben													
+Polizeidirektion 2													
+Krematorium Ruhleben													
+U Ruhleben													
+Machandelweg													
+U Ruhleben													
+													
+	Ruhleben - Waldkrankenhaus												
+-----------------------------------													
+													
+[infosystem_trip]													
+13017													
+URUH-WALD													
+231													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+28													
+U Ruhleben													
+Krematorium Ruhleben													
+Polizeidirektion 2													
+Gueterbahnhof Ruhleben													
+Teltower Str													
+Heidereuterstr													
+Grenadierstr													
+Stresowpl													
+Breite Str/Markt													
+U Rathaus Spandau													
+Galenstr													
+Staakener Str													
+Dallgower Str													
+Zeppelinstr/Seegefelder Str													
+Spekteweg													
+Merziger Str													
+Falkenseer Ch/Zeppelinstr													
+Siegener Str													
+Muelheimer Str													
+Wasserwerkstr													
+Spektefeld													
+Paul-Gerhardt-Ring													
+Spektefeld/Schulzentrum													
+Hochhausweg													
+Falkenseer Ch/Stadtrandstr													
+Gluehwuermchenweg													
+Griesingerstr/Waldkrankenhaus													
+Waldkrankenhaus													
+													
+													
+	Waldkrankenhaus - Ruhleben												
+-----------------------------------													
+													
+[infosystem_trip]													
+13018													
+WALD-URUH													
+205													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+30													
+Waldkrankenhaus													
+Griesingerstr/Waldkrankenhaus													
+Gluehwuermchenweg													
+Falkenseer Ch/Stadtrandstr													
+Hochhausweg													
+Spektefeld/Schulzentrum													
+Paul-Gerhardt-Ring													
+Spektefeld													
+Wasserwerkstr													
+Muelheimer Str													
+Siegener Str													
+Falkenseer Ch/Zeppelinstr													
+Merziger Str													
+Spekteweg													
+Zeppelinstr/Seegefelder Str													
+Dallgower Str													
+Staakener Str													
+Galenstr													
+U Rathaus Spandau													
+Breite Str/Markt													
+Stresowpl													
+Grenadierstr													
+Heidereuterstr													
+Teltower Str													
+Gueterbahnhof Ruhleben													
+Polizeidirektion 2													
+Krematorium Ruhleben													
+U Ruhleben													
+Machandelweg													
+U Ruhleben													
+													
+	Fernbahnhof - Nervenklinik												
+-----------------------------------													
+													
+[infosystem_trip]													
+13019													
+FBHF-NERV													
+170													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+22													
+Fernbahnhof Spandau													
+Breite Str/Markt													
+U Rathaus Spandau													
+Galenstr													
+Staakener Str													
+Dallgower Str													
+Zeppelinstr/Seegefelder Str													
+Spekteweg													
+Merziger Str													
+Falkenseer Ch/Zeppelinstr													
+Siegener Str													
+Muelheimer Str													
+Wasserwerkstr													
+Spektefeld													
+Paul-Gerhardt-Ring													
+Spektefeld/Schulzentrum													
+Hochhausweg													
+Falkenseer Ch/Stadtrandstr													
+Gluehwuermchenweg													
+Griesingerstr/Waldkrankenhaus													
+Griesingerstr													
+Nervenklinik													
+													
+													
+	Nervenklinik - Fernbahnhof												
+-----------------------------------													
+													
+[infosystem_trip]													
+13020													
+NERV-FBHF													
+171													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+22													
+Nervenklinik													
+Griesingerstr													
+Griesingerstr/Waldkrankenhaus													
+Gluehwuermchenweg													
+Falkenseer Ch/Stadtrandstr													
+Hochhausweg													
+Spektefeld/Schulzentrum													
+Paul-Gerhardt-Ring													
+Spektefeld													
+Wasserwerkstr													
+Muelheimer Str													
+Siegener Str													
+Falkenseer Ch/Zeppelinstr													
+Merziger Str													
+Spekteweg													
+Zeppelinstr/Seegefelder Str													
+Dallgower Str													
+Staakener Str													
+Galenstr													
+U Rathaus Spandau													
+Breite Str/Markt													
+Fernbahnhof Spandau													
+													
+													
+													
+													
+													
+	Fernbahnhof - Siegener Str.												
+-----------------------------------													
+													
+[infosystem_trip]													
+13021													
+FBHF-SIEG													
+155													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+11													
+Fernbahnhof Spandau													
+Breite Str/Markt													
+U Rathaus Spandau													
+Galenstr													
+Staakener Str													
+Dallgower Str													
+Zeppelinstr/Seegefelder Str													
+Spekteweg													
+Merziger Str													
+Falkenseer Ch/Zeppelinstr													
+Siegener Str													
+													
+													
+	Siegener Str. - Fernbahnhof												
+-----------------------------------													
+													
+[infosystem_trip]													
+13022													
+SIEG-FBHF													
+171													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+12													
+Siegener Str													
+Siegener Str													
+Falkenseer Ch/Zeppelinstr													
+Merziger Str													
+Spekteweg													
+Zeppelinstr/Seegefelder Str													
+Dallgower Str													
+Staakener Str													
+Galenstr													
+U Rathaus Spandau													
+Breite Str/Markt													
+Fernbahnhof Spandau													
+													
+													
+	Fernbahnhof - Spektefeld												
+-----------------------------------													
+													
+[infosystem_trip]													
+13023													
+FBHF-SPEK													
+172													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+16													
+Fernbahnhof Spandau													
+Breite Str/Markt													
+U Rathaus Spandau													
+Galenstr													
+Staakener Str													
+Dallgower Str													
+Zeppelinstr/Seegefelder Str													
+Spekteweg													
+Merziger Str													
+Falkenseer Ch/Zeppelinstr													
+Siegener Str													
+Muelheimer Str													
+Wasserwerkstr													
+Spektefeld													
+Paul-Gerhardt-Ring													
+Spektefeld/Schulzentrum													
+													
+													
+	Spektefeld - Fernbahnhof 												
+-----------------------------------													
+													
+[infosystem_trip]													
+13024													
+SPEK-FBHF													
+171													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+16													
+Spektefeld/Schulzentrum													
+Paul-Gerhardt-Ring													
+Spektefeld													
+Wasserwerkstr													
+Muelheimer Str													
+Siegener Str													
+Falkenseer Ch/Zeppelinstr													
+Merziger Str													
+Spekteweg													
+Zeppelinstr/Seegefelder Str													
+Dallgower Str													
+Staakener Str													
+Galenstr													
+U Rathaus Spandau													
+Breite Str/Markt													
+Fernbahnhof Spandau													
+													
+													
+													
+	Fernbahnhof - Waldkrankenhaus												
+-----------------------------------													
+													
+[infosystem_trip]													
+13025													
+FBHF-WALD													
+231													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+21													
+Fernbahnhof Spandau													
+Breite Str/Markt													
+U Rathaus Spandau													
+Galenstr													
+Staakener Str													
+Dallgower Str													
+Zeppelinstr/Seegefelder Str													
+Spekteweg													
+Merziger Str													
+Falkenseer Ch/Zeppelinstr													
+Siegener Str													
+Muelheimer Str													
+Wasserwerkstr													
+Spektefeld													
+Paul-Gerhardt-Ring													
+Spektefeld/Schulzentrum													
+Hochhausweg													
+Falkenseer Ch/Stadtrandstr													
+Gluehwuermchenweg													
+Griesingerstr/Waldkrankenhaus													
+Waldkrankenhaus													
+													
+													
+	Waldkrankenhaus - Fernbahnhof 												
+-----------------------------------													
+													
+[infosystem_trip]													
+13026													
+WALD-FBHF													
+171													
+130													
+													
+................													
+													
+[infosystem_busstop_list]													
+21													
+Waldkrankenhaus													
+Griesingerstr/Waldkrankenhaus													
+Gluehwuermchenweg													
+Falkenseer Ch/Stadtrandstr													
+Hochhausweg													
+Spektefeld/Schulzentrum													
+Paul-Gerhardt-Ring													
+Spektefeld													
+Wasserwerkstr													
+Muelheimer Str													
+Siegener Str													
+Falkenseer Ch/Zeppelinstr													
+Merziger Str													
+Spekteweg													
+Zeppelinstr/Seegefelder Str													
+Dallgower Str													
+Staakener Str													
+Galenstr													
+U Rathaus Spandau													
+Breite Str/Markt													
+Fernbahnhof Spandau													
+													
+	
+
+
 
 [infosystem_trip]
 1301
