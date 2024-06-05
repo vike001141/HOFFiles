@@ -30,7 +30,7 @@ stringcount_busstop
 * T e r m i n i *
 *****************
 		String1	string2	string3	string4	string5		String7							string 15 	string 16	string17	string18							str25	str26	
-		omsi target och rullgardin	vet it	Ziel Ãœberschreiben Rad 1	Ziel Ãœberschreiben Rad 2	vet it		vet it	textur						front topprad	front nedre rad	sida bak topprad	sida bak nedre rad							infotainment slide 1	infotainment slide 2	
+		omsi target och rullgardin	vet it	Ziel Überschreiben Rad 1	Ziel Überschreiben Rad 2	vet it		vet it	textur						front topprad	front nedre rad	sida bak topprad	sida bak nedre rad							infotainment slide 1	infotainment slide 2	
 [addterminus_list]
 {ALLEX}	0	Empty											
 	150	Schulbus	SCHULBUS		SCHULBUS	SCHULBUS		Schulbus					
@@ -40,13 +40,13 @@ stringcount_busstop
 	163	Am Omnibushof	Am Omnibushof	Spandau	Am Omnibushof	Am Omnibushof		Am Omnibushof					
 {ALLEX}	13	Betriebsfahrt	BETRIEBSFAHRT		BETRIEBSFAHRT	Betriebsfahrt			Betriebsfahrt.bmp						Betriebsfahrt*I		Betriebsfahrt*I								Betriebsfahrt
 {ALLEX}	21	Fahrt endet hier	FAHRT ENDET		FAHRT ENDET HIER	Fahrt endet									Fahrt endet hier		Fahrt endet hier								Fahrt endet hier
-	32	Golssener Str	GOLSSENER STR.	COLUMBIADAMM/	GOLSSENER STR.	GOLSSENER STR.		Golï¿½ener Str.					
-	128	Teupitzer Str	TEUPITZER STR.	NEUKï¿½LLN	TEUPITZER STR.	TEUPITZER STR.		Teupitzer Str.					
+	32	Golssener Str	GOLSSENER STR.	COLUMBIADAMM/	GOLSSENER STR.	GOLSSENER STR.		Gol˜ener Str.					
+	128	Teupitzer Str	TEUPITZER STR.	NEUK˜LLN	TEUPITZER STR.	TEUPITZER STR.		Teupitzer Str.					
 	900	John-F-Kennedy-Pl	J.-F-KENNEDY-PL.	 JOHN-F.	 KENNEDY-PLATZ	J-F-KENNEDY-PL.		John-F-Kennedy-Pl.					
 	34	Deutschlandhalle	DEUTSCHLANDHALLE		DEUTSCHLANDHALLE	DEUTSCHLANDHALLE		Deutschlandhalle					
 	42	Fehrbelliner Pl	FEHRBELLINER PL.	U-BAHNHOF	FEHRBELLINER PL.	FEHRBELLINER PL.		U Fehrbelliner Pl.					
 	901	Cicerostr	CICEROSTR.		CICEROSTR.	CICEROSTR.		Cicerostr.					
-	902	Harzer Str	HARZER STR.	NEUKï¿½LLN	HARZER STR.	HARZER STR.		Harzer Str.					
+	902	Harzer Str	HARZER STR.	NEUK˜LLN	HARZER STR.	HARZER STR.		Harzer Str.					
 	250	Boddinstr	U BODDINSTR.	U-BAHNHOF	BODDINSTR.	U BODDINSTR.		U Boddinstr.					
 	313	S Treptower Park	S TREPTOWER P.	S-BAHNHOF	TREPTOWER PARK	S TREPTOWER P.		S Treptower Park					
 	129	Brixpl	BRIXPLATZ	NEU-WESTEND	BRIXPLATZ	BRIXPLATZ		Brixplatz					
@@ -57,14 +57,14 @@ stringcount_busstop
 	905	Adamstr	ADAMSTR.	Spandau	ADAMSTR.	Spandau ADAMSTR.		Spandau Adamstr.					
 	166	Magistratsweg	MAGISTRATSWEG	Staaken	MAGISTRATSWEG	MAGISTRATSWEG		Magistratsweg					
 	322	Nennhauser Damm	NENNHAUSER DAMM	Staaken	NENNHAUSER DAMM	NENNHAUSER DAMM		Nennhauser Damm					
-	167	Brunsbuetteler Damm	BRUNSBï¿½TTELER D.	Staaken	BRUNSBï¿½TTELER D.	BRUNSBï¿½TTELER D.		Brunsbï¿½tteler Damm					
+	167	Brunsbuetteler Damm	BRUNSB˜TTELER D.	Staaken	BRUNSB˜TTELER D.	BRUNSB˜TTELER D.		Brunsb˜tteler Damm					
 	232	Zoo	ZOOLOG. GARTEN	S+U-BAHNHOF	ZOOLOG. GARTEN	S+U-Bhf. ZOO		S+U Zoolog. Garten					
 	309	S Savignypl	S SAVIGNYPLATZ	S-BAHNHOF	SAVIGNYPLATZ	S-Bhf. SAVIGNYPL		S-Bhf. Savignyplatz					
 	64	Reimerweg	Reimerweg	Staaken	Reimerweg	Reimerweg		Reimerweg					
 	63	Heerstr E Gatower Str	HEERSTR/GATOWER	HEERSTR./	GATOWER STR.	GATOWER STR.		Heerstr./Gatower Str					
 	5	Alt-Pichelsdorf	ALT-PICHELSDORF	HEERSTR./	 ALT-PICHELSDORF	 ALT-PICHELSDORF		Alt-Pichelsdorf					
 	112	Messedamm	MESSEDAMM	MESSEDAMM /	ZOB / ICC	MESSEDAMM		Messedamm/ICC					
-	226	Waldbuehne	WALDBï¿½HNE		WALDBï¿½HNE	WALDBï¿½HNE		Waldbï¿½hne					
+	226	Waldbuehne	WALDB˜HNE		WALDB˜HNE	WALDB˜HNE		Waldb˜hne					
 	134	Olympiastadion	OLYMPIASTADION		OLYMPIASTADION	OLYMPIASTADION		Olympiastadion					
 	161	Johannesstift	JOHANNESSTIFT	Spandau	JOHANNESSTIFT	JOHANNESSTIFT		Johannesstift					
 	232	Zoo	ZOOLOG. GARTEN	S+U-BAHNHOF	ZOOLOG. GARTEN	S+U-Bhf. ZOO		S+U Zoolog. Garten					
@@ -74,7 +74,7 @@ stringcount_busstop
 	144	Machandelweg	MACHANDELWEG	Ruhleben	Machandelweg	MACHANDELWEG		Machandelweg					
 	205	U Ruhleben	Ruhleben	U Ruhleben		U Ruhleben		U Ruhleben					
 	907	Richard-Wagner-Pl	R.-WAGNER-PL.	U-BAHNHOF	RICH.-WAGNER-PL.	U RICH-WAGNER-PL		U Richard-Wagner-Pl.					
-	162	Wroehmaennerpark	WRï¿½HMï¿½NNERPARK	Spandau	WRï¿½HMï¿½NNERPARK	WRï¿½HMï¿½NNERPARK		Wrï¿½hmï¿½nnerpark					
+	162	Wroehmaennerpark	WR˜HM˜NNERPARK	Spandau	WR˜HM˜NNERPARK	WR˜HM˜NNERPARK		Wr˜hm˜nnerpark					
 	908	Klinikum Charlottenburg	KLINIKUM CHARL.	KLINIKUM	CHARLOTTENBURG	KLINIKUM		Klinikum Charlottenb					
 	73	Jakob-Kaiser-Pl	JAKOB-KAISER-PL.	U-BAHNHOF	JAKOB-KAISER-PL.	JAKOB-KAISER-PL.		U Jakob-Kaiser-Pl.					
 	329	Hahneberg	Hahneberg	Staaken	Hahneberg	Hahneberg		Staaken Hahneberg					
@@ -92,13 +92,13 @@ stringcount_busstop
 	1	Alt-Heiligensee	ALT-HEILIGENSEE	HEILIGENSEE	ALT-HEILIGENSEE	ALT-HEILIGENSEE		Alt-Heiligensee					
 	329	Hahneberg	Hahneberg	Staaken	Hahneberg	Hahneberg		Staaken Hahneberg					
 	163	Am Omnibushof	Am Omnibushof	Spandau	Am Omnibushof	Am Omnibushof		Am Omnibushof					
-	15	Bernauer Str E Neheimer Str	NEHEIMER STR.	TEGEL-Sï¿½D/	NEHEIMER STR.	NEHEIMER STR.		Tegel-Sï¿½d,Neheimer S					
+	15	Bernauer Str E Neheimer Str	NEHEIMER STR.	TEGEL-S˜D/	NEHEIMER STR.	NEHEIMER STR.		Tegel-S˜d,Neheimer S					
 	434	U Alt-Tegel	U ALT-TEGEL	U-BAHNHOF	ALT-TEGEL	U-Bhf. ALT-TEGEL		U-Bahnhof Alt-Tegel					
 	198	Holzhauser Str	U HOLZHAUSER STR	U-BAHNHOF	HOLZHAUSER STR.	U HOLZHAUSER STR		U Holzhauser Str.					
 	69	Goerzallee	GOERZALLEE	LICHTERFELDE	GOERZALLEE	GOERZALLEE		Goerzallee					
 	914	Oskar-Helene-Heim	OSKAR-HELENE-H.	U-BAHNHOF	OSKAR-HELENE-H.	U OSKAR-H.-HEIM		U Oskar-Helene-Heim					
 	152	Rohrdamm	U-Bhf. ROHRDAMM	U-BAHNHOF	ROHRDAMM	U-Bhf. ROHRDAMM		U-Bahnhof Rohrdamm					
-	33	Clayallee	CLAYALLEE	CLAYALLEE/	Kï¿½N.-LUISE-STR.	CLAYALLEE		Clayallee/K.-Luise-S					
+	33	Clayallee	CLAYALLEE	CLAYALLEE/	K˜N.-LUISE-STR.	CLAYALLEE		Clayallee/K.-Luise-S					
 	89	Lindenstr	LINDENSTR.	LICHTERFELDE	LINDENSTR.	LINDENSTR.		Lindenstr.					
 	196	Kaiserdamm	U KAISERDAMM	U-BAHNHOF	KAISERDAMM	U KAISERDAMM		U Kaiserdamm					
 	301	Rhenaniastr	RHENANIASTR.	HASELHORST	RHENANIASTR.	RHENANIASTR.		Rhenaniastr					
@@ -107,7 +107,7 @@ stringcount_busstop
 	24	Bismarckpl	BISMARCKPLATZ	GRUNEWALD	BISMARCKPLATZ	BISMARCKPLATZ		Bismarckplatz					
 	112	Messedamm	MESSEDAMM	MESSEDAMM /	ZOB / ICC	MESSEDAMM		Messedamm/ICC					
 	329	Hahneberg	Hahneberg	Staaken	Hahneberg	Hahneberg		Staaken Hahneberg					
-	167	Brunsbuetteler Damm	BRUNSBï¿½TTELER D.	Staaken	BRUNSBï¿½TTELER D.	BRUNSBï¿½TTELER D.		Brunsbï¿½tteler Damm					
+	167	Brunsbuetteler Damm	BRUNSB˜TTELER D.	Staaken	BRUNSB˜TTELER D.	BRUNSB˜TTELER D.		Brunsb˜tteler Damm					
 	62	Werderstr	WERDERSTR.	HAKENFELDE	WERDERSTR.	WERDERSTR.		Hakenfelde Werderstr					
 	66	Aalemannufer	AALEMANNUFER	HAKENFELDE	AALEMANNUFER	AALEMANNUFER		Aalemannufer					
 	916	Hakenfelde#ueber Goltzstr	WERDERSTR.	HAKENFELDE	WERDERSTR.	WERDERSTR.		Hakenfelde Werderstr					
@@ -119,7 +119,7 @@ stringcount_busstop
 	54	Glienicke Gutsstr	GLIENICKE GUTSS.	GROSS-GLIENICKE	GUTSSTR.	GLIENICKE GUTSS.		Glienicke Gutsstr.					
 	6	Alt-Gatow	ALT-GATOW	G A T O W	ALT-GATOW	ALT-GATOW		Alt-Gatow					
 	163	Am Omnibushof	Am Omnibushof	Spandau	Am Omnibushof	Am Omnibushof		Am Omnibushof					
-	162	Wroehmaennerpark	WRï¿½HMï¿½NNERPARK	Spandau	WRï¿½HMï¿½NNERPARK	WRï¿½HMï¿½NNERPARK		Wrï¿½hmï¿½nnerpark					
+	162	Wroehmaennerpark	WR˜HM˜NNERPARK	Spandau	WR˜HM˜NNERPARK	WR˜HM˜NNERPARK		Wr˜hm˜nnerpark					
 	169	Spandau Friedhof	FRIEDHOF Spandau	Spandau	FRIEDHOF	Spandau FRIEDHOF		Spandau Friedhof					
 	326	Alt-Kladow	ALT-KLADOW	KLADOW	ALT-KLADOW	ALT-KLADOW		Alt-Kladow					
 	79	Krankenhaus Hohengatow	KRANK. HOHENGTW.	KRANKENHAUS	HOHENGATOW	KRANK. HOHENGTW.		Krankenh. Hohengatow					
@@ -133,14 +133,14 @@ stringcount_busstop
 	318	Albrechtshof Bhf	ALBRECHTSHOF BHF	ALBRECHTSHOF	BAHNHOF	ALBRECHTSHOF BHF		Albrechtshof Bahnhof					
 	171	Fernbahnhof Spandau	Bhf. Spandau	Bahnhof	Spandau	Bhf. Spandau		Bahnhof Spandau					
 	172	Spektefeld Schulzentrum	IM SPEKTEFELD	Spandau	Im Spektefeld	IM SPEKTEFELD		Im Spektefeld					
-	133	F_Seegefelder Str	SEEGEFELDER STR.	Falkensee	Seegefelder straÃŸe	SEEGEFELDER STR.		Falk. Seegefelder S.					
+	133	F_Seegefelder Str	SEEGEFELDER STR.	Falkensee	Seegefelder straße	SEEGEFELDER STR.		Falk. Seegefelder S.					
 	465	F_Str Einheit	STR. D. EINHEIT	Falkensee	STR. DER EINHEIT	STR. D. EINHEIT		Falk. Str.d.Einheit					
 	62	Werderstr	WERDERSTR.	HAKENFELDE	WERDERSTR.	WERDERSTR.		Hakenfelde Werderstr					
 	173	Heidebergplan	HEIDEBERGPLAN	Staaken	HEIDEBERGPLAN	HEIDEBERGPLAN		Heidebergplan					
-	155	Siegener Str	SIEGENER STR.	Spandau	Siegener straÃŸe	SIEGENER STR.		Siegener Str.					
+	155	Siegener Str	SIEGENER STR.	Spandau	Siegener straße	SIEGENER STR.		Siegener Str.					
 	322	Nennhauser Damm	NENNHAUSER DAMM	Staaken	NENNHAUSER DAMM	NENNHAUSER DAMM		Nennhauser Damm					
 	163	Am Omnibushof	Am Omnibushof	Spandau	Am Omnibushof	Am Omnibushof		Am Omnibushof					
-	226	Waldbuehne	WALDBï¿½HNE		WALDBï¿½HNE	WALDBï¿½HNE		Waldbï¿½hne					
+	226	Waldbuehne	WALDB˜HNE		WALDB˜HNE	WALDB˜HNE		Waldb˜hne					
 	134	Olympiastadion	OLYMPIASTADION		OLYMPIASTADION	OLYMPIASTADION		Olympiastadion					
 	232	Zoo	ZOOLOG. GARTEN	S+U-BAHNHOF	ZOOLOG. GARTEN	S+U-Bhf. ZOO		S+U Zoolog. Garten					
 	217	Oktoberfest	OKTOBERFEST	U KAISERDAMM	OKTOBERFEST	U KAISERDAMM		Oktoberfest					
@@ -150,7 +150,7 @@ stringcount_busstop
 	38	S Grunewald	S GRUNEWALD	S-BAHNHOF	GRUNEWALD	S-Bhf. GRUNEWALD		S-Bhf. Grunewald					
 	52	Grunewaldturm	GRUNEWALDTURM		GRUNEWALDTURM	GRUNEWALDTURM		Grunewaldturm					
 	157	Schildhorn	SCHILDHORN		SCHILDHORN	SCHILDHORN		Schildhorn					
-	78	Kongresshalle	KONGRESSHALLE	TIERGARTEN	KONGRESSHALLE	KONGRESSHALLE		Kongreï¿½halle					
+	78	Kongresshalle	KONGRESSHALLE	TIERGARTEN	KONGRESSHALLE	KONGRESSHALLE		Kongre˜halle					
 	143	Reichstag	REICHSTAG		REICHSTAG	REICHSTAG		Reichstag					
 	49	Wannsee	WANNSEE	S-BAHNHOF	WANNSEE	S-Bhf. WANNSEE		S Wannsee					
 	184	Theodor-Heuss-Pl	THEODOR-HEUSS-PL	U-BAHNHOF	THEODOR-HEUSS-PL	THEODOR-HEUSS-PL		U Theodor-Heuss-Pl.					
@@ -163,9 +163,9 @@ stringcount_busstop
 	920	Nauen Bhf	NAUEN Bhf.	NAUEN	BAHNHOF	NAUEN Bhf.		Nauen Bahnhof					
 	154	U Rathaus Spandau	Rathaus Spandau	U Rathaus Spandau		Rathaus Spandau		U Rathaus Spandau					
 	921	P Bassinpl	BASSINPLATZ	POTSDAM	BASSINPLATZ	POTSDAM BASSINPL		Potsdam Bassinplatz					
-	111	Messegelaende	MESSEGELï¿½NDE 1	MESSEGELï¿½NDE	MESSEHALLE 1	MESSEGELï¿½NDE						
-	116	Messegelaende 19	MESSEGELï¿½NDE 19	MESSEGELï¿½NDE	MESSEHALLE 19	MESSEGELï¿½NDE						
-	137	Pl d Luftbruecke	PL.D.LUFTBRï¿½CKE	PLATZ DER	LUFTBRï¿½CKE	PL.D.LUFTBRï¿½CKE						
+	111	Messegelaende	MESSEGEL˜NDE 1	MESSEGEL˜NDE	MESSEHALLE 1	MESSEGEL˜NDE						
+	116	Messegelaende 19	MESSEGEL˜NDE 19	MESSEGEL˜NDE	MESSEHALLE 19	MESSEGEL˜NDE						
+	137	Pl d Luftbruecke	PL.D.LUFTBR˜CKE	PLATZ DER	LUFTBR˜CKE	PL.D.LUFTBR˜CKE						
 	139	Pfaueninsel	PFAUENINSEL		PFAUENINSEL	PFAUENINSEL		Pfaueninsel					
 	131	S Nikolassee	S NIKOLASSEE	S-BAHNHOF	NIKOLASSEE	S-Bhf.NIKOLASSEE		S-Bhf. Nikolassee					
 	247	Hotellinie	HOTELLINIE		HOTELLINIE	HOTELLINIE		Hotellinie					
@@ -181,11 +181,11 @@ S Ostbahnhof	S OSTBAHNHOF	S Ostbahnhof		S Ostbahnhof	;CDJK"qwxBa140 142 147 240 
 Bauernhof	NORDS. BAUERNHOF	Nordspitze 	Bauernhof	Nordsp. Bauernhof	a76
 
 string0	string1	string2	string3	string4	string5
-id	all caps	IBIS rad 1	IBIS rad 2	infotainment	bytesmÃ¶jligheter
+id	all caps	IBIS rad 1	IBIS rad 2	infotainment	bytesmöjligheter
 [addbusstop_list]
 Aalemannufer	AALEMANNUFER	Aalemannufer		Aalemannufer									
 Adamstr	ADAMSTR.	Adamstr.		Adamstr.									
-Altstaedter Ring	ALTSTÃ„DTER RING	AltstÃ¤dter Ring		AltstÃ¤dter Ring									
+Altstaedter Ring	ALTSTÄDTER RING	Altstädter Ring		Altstädter Ring									
 Am Bogen	AM BOGEN	Am Bogen		Am Bogen									
 Am Graben	AM GRABEN	Am Graben		Am Graben									
 Am Omnibushof	AM OMNIBUSHOF	Am Omnibushof		Am Omnibushof	a134 135 638									
@@ -195,10 +195,10 @@ Baluschekweg	BALUSCHEKWEG	Baluschekweg		Baluschekweg
 Beerwinkel	BEERWINKEL	Beerwinkel		Beerwinkel									
 Bhf Falkensee	FALKENSEE, BHF.	Falkensee, Bahnhof		Falkensee, Bahnhof	;QYDIKa604 651 652 653 654 655 656 X37							
 Biberburg	BIBERBURG	Biberburg		Biberburg	a134 N34 X34								
-Boetzow-Bahn	BÃ–TZOW-BAHN	BÃ¶tzow-Bahn		BÃ¶tzow-Bahn									
+Boetzow-Bahn	BÖTZOW-BAHN	Bötzow-Bahn		Bötzow-Bahn									
 Borchertweg	BORCHERTWEG	Borchertweg		Borchertweg									
 Breite Str/Markt	BREITE STR/MARKT	Breitestr./Markt		Breitestr./Markt									
-Brunsbuetteler D/Ruhlebener Str	BRUNSB.D/RUHLSTR	BrunsbÃ¼tteler D./	Ruhlebener Str.	BrunsbÃ¼tteler Damm/Ruhlebener Str.	a134 135 137 638 M32 M36 M37 M45 N34 X36 X37								
+Brunsbuetteler D/Ruhlebener Str	BRUNSB.D/RUHLSTR	Brunsbütteler D./	Ruhlebener Str.	Brunsbütteler Damm/Ruhlebener Str.	a134 135 137 638 M32 M36 M37 M45 N34 X36 X37								
 Brunsbuetteler Damm	NENNHAUSER DAMM	Nennhauser Damm		Nennhauser Damm									
 Dallgower Str	DALLGOWER STR.	Dallgower Str.		Dallgower Str.	a130 237 N30								
 Dyrotzer Str	DYROTZER STR.	Dyrotzer Str.		Dyrotzer Str.									
@@ -207,7 +207,7 @@ Elsflether Weg	ELSFLETHER WEG	Elsflether Weg		Elsflether Weg	aM32 X36 X37
 Eschenweg	ESCHENWEG	Eschenweg		Eschenweg									
 F_Hamburger Str	FALK. HAMBURGER STR.	Falkensee,	Hamburger Str.	Falkensee, Hamburger Str.									
 F_Humboldtallee	FALK. HUMBOLDTALLEE	Falkensee,	Humboldtallee	Falkensee, Humboldtallee									
-F_Koelner Str	FALK. KÃ–LNER STR.	Falkensee,	KÃ¶lner Str.	Falkensee, KÃ¶lner Str.									
+F_Koelner Str	FALK. KÖLNER STR.	Falkensee,	Kölner Str.	Falkensee, Kölner Str.									
 F_Rathaus	FALKENSEE, RATHAUS	Falkensee,	Rathaus	Falkensee, Rathaus	a604 651 653 654 656 X37								
 F_Seegefelder Str	SEEGEFELDER STR.	Falkensee,	Seegefelder Str.	Falkensee, Seegefelder Str.									
 F_Siedlereck	FALK. SIEDLERECK	Falkensee,	Siedlereck	Falkensee, Siedlereck	a652 X37								
@@ -219,10 +219,10 @@ Fernbahnhof Spandau	FERNBHF. SPANDAU	Fernbhf. Spandau		Fernbahnhof Spandau	qBa13
 Finnenhaus-Siedlung	FINNENHAUS-SDLG.	Finnenhaus-Siedlung		Finnenhaus-Siedlung	a134 697 N34 X34								
 Flankenschanze	FLANKENSCHANZE	Flankenschanze		Flankenschanze	a137 M37								
 Flugplatz Gatow	FLUGPLATZ GATOW	Flugplatz Gatow		Flugplatz Gatow									
-Foelderichstr	FÃ–LDERICHSTR.	FÃ¶lderichstr.		FÃ¶lderichstr.									
-Foelderichstr/Adamstr	FÃ–LDERICHS/ADAMS	FÃ¶lderichstr./	Adamstr.	FÃ¶lderichstr/Adamstr									
+Foelderichstr	FÖLDERICHSTR.	Földerichstr.		Földerichstr.									
+Foelderichstr/Adamstr	FÖLDERICHS/ADAMS	Földerichstr./	Adamstr.	Földerichstr/Adamstr									
 Freiheit 16-43	FREIHEIT 16-43	Freiheit 16-43		Freiheit 16-43									
-Freudstr	GOLDKÃ„FERWEG	Freudstr./	GoldkÃ¤ferweg	GoldkÃ¤ferweg									
+Freudstr	GOLDKÄFERWEG	Freudstr./	Goldkäferweg	Goldkäferweg									
 Freudstr Falk	FALK/FREUDSTR.	Falkenseer Ch./	Freudstr.	Falkenseer Chaussee/Freudstr.	a137 X37								
 Galenstr	GALENSTR.	Galenstr./	S Spandau-West	Galenstr.	a130 134 136 237 337 671 M37 M45 N7 N30 X33								
 Galenstr/Hohenzollernring	GALENSTR./HOHZR.	Galenstr./	Hohenzollernring	Galenstr./Hohenzollernring									
@@ -231,19 +231,19 @@ Gatower Str/Heerstr	GATOWER STR./HEERSTR.	Gatower Str./	Heerstr.	Gatower Str./He
 Genfenbergstr	GENFENBERGSTR.	Genfenbergstr.		Genfenbergstr.									
 Glienicke Gutshof	GLIENICKE GUTSH.	Glienicke Gutshof		Glienicke Gutshof									
 Gliensteig	GLIENSTEIG	Gliensteig		Gliensteig									
-Gluehwuermchenweg	GLÃœHWÃœRMCHENWEG	GlÃ¼hwÃ¼rmchenweg		GlÃ¼hwÃ¼rmchenweg									
-Goessweinsteiner Gang	GÃ–SSWEINST. GANG	GÃ¶ÃŸweinsteiner Gang		GÃ¶ÃŸweinsteiner Gang	a134 135 234 697 N35 X34									
-Goetelstr	GÃ–TELSTR.	GÃ¶telstr.		GÃ¶telstr.									
+Gluehwuermchenweg	GLÜHWÜRMCHENWEG	Glühwürmchenweg		Glühwürmchenweg									
+Goessweinsteiner Gang	GÖSSWEINST. GANG	Gößweinsteiner Gang		Gößweinsteiner Gang	a134 135 234 697 N35 X34									
+Goetelstr	GÖTELSTR.	Götelstr.		Götelstr.									
 Goltzstr/Mertensstr	GOLTZSTR/MERTEN.	Goltzstr./	Mertensstr.	Goltzstr./Mertensstr	a139 N39								
 Goltzstr/Rauchstr	GOLTZSTR/RAUCHS.	Goltzstr./	Rauchstr.	Goltzstr./Rauchstr.	a139 M36 N39								
-Goltzstr/Reussstr	GOLTZSTR/REUSSS.	Goltzstr./	ReuÃŸstr.	Goltzstr./ReuÃŸstr.	a136 M36								
+Goltzstr/Reussstr	GOLTZSTR/REUSSS.	Goltzstr./	Reußstr.	Goltzstr./Reußstr.	a136 M36								
 Gredinger Str	GREDINGER STR.	Gredinger Str.		Gredinger Str.	a135 234 N34 x34								
 Grenadierstr	GRENADIERSTR.	Grenadierstr.		Grenadierstr.									
 Griesingerstr	GRIESINGERSTR.	Griesingerstr.		Griesingerstr.									
 Griesingerstr/Waldkrankenhaus	GRIESINGER/WALDK	Griesingerstr./	Waldkrankenhaus	Griesingerstr./Waldkrankenhaus									
-Gross-Glienicker Weg	GR-GLIENICKER W.	GroÃŸ-Glienicker Weg		GroÃŸ-Glienicker Weg	a334 334R								
-Gruenhofer Weg	GRÃœNHOFER WEG	GrÃ¼nhofer Weg		GrÃ¼nhofer Weg									
-Gueterbahnhof Ruhleben	GÃœTERBHF. RUHL.	GÃ¼terbahnhof	Ruhleben	GÃ¼terbahnhof Ruhleben	a131 M45								
+Gross-Glienicker Weg	GR-GLIENICKER W.	Groß-Glienicker Weg		Groß-Glienicker Weg	a334 334R								
+Gruenhofer Weg	GRÜNHOFER WEG	Grünhofer Weg		Grünhofer Weg									
+Gueterbahnhof Ruhleben	GÜTERBHF. RUHL.	Güterbahnhof	Ruhleben	Güterbahnhof Ruhleben	a131 M45								
 Hahneberg	HAHNEBERG	Hahneberg		Hahneberg	aM36 M49 X49								
 Hakenfelde	HAKENFELDE	Hakenfelde		Hakenfelde	a671 M45								
 Harburger Weg	HARBURGER WEG	Harburger Weg		Harburger Weg									
@@ -264,13 +264,13 @@ Kaserne Hottengrund	KAS. HOTTENGRUND	Kaserne Hottengrund		Kaserne Hottengrund	a1
 Kisselnallee	KISSELNALLEE	Kisselnallee		Kisselnallee									
 Kladow Dorfplatz	KLADOW DORFPLATZ	Kladow Dorfplatz		Kladow Dorfplatz	a134 135 697 N35 X34								
 Kladow Hottengrund	KLADOW HOTTENG.	Kladow Hottengrund		Kladow Hottengrund	a134 135 697 N35 X34								
-Klaerwerkstr/Freiheit	KLÃ„RWERKSTR./FR.	KlÃ¤rwerkstr./	Freiheit	KlÃ¤rwerkstr./Freiheit									
+Klaerwerkstr/Freiheit	KLÄRWERKSTR./FR.	Klärwerkstr./	Freiheit	Klärwerkstr./Freiheit									
 Klosterbuschweg	KLOSTERBUSCHWEG	Klosterbuschweg		Klosterbuschweg	a131 X49								
 Kolonie Hasenheide	KOL. HASENHEIDE	Kolonie	Hasenheide	Kolonie Hasenheide									
 Kolonie Waldfrieden	KOL. WALDFRIEDEN	Kolonie	Waldfrieden	Kolonie Waldfrieden									
 Kraftwerk Oberhavel	KRAFTW. OBERHVL.	Kraftwerk Overhavel		Kraftwerk Oberhavel	a136 X36								
 Krampnitzer Weg	KRAMPNITZER WEG	Krampnitzer Weg		Krampnitzer Weg	a234 N35								
-Krankenhaus Havelhoehe	KRK. HAVELHÃ–HE	Krankenhaus	HavelhÃ¶he	Krankhaus HavelhÃ¶he	a134 N34 X34								
+Krankenhaus Havelhoehe	KRK. HAVELHÖHE	Krankenhaus	Havelhöhe	Krankhaus Havelhöhe	a134 N34 X34								
 Krankenhaus Hohengatow	KRK. HOHENGATOW	Krankenhaus	Hohengatow	Krankhaus Hohengatow	a134 N34 X34								
 Krematorium Ruhleben	KREM. RUHLEBEN	Krematorium Ruhl.		Krematorium Ruhleben	a131 M45								
 Krowelstr	KROWELSTR.	Krowelstr.		Krowelstr.									
@@ -287,7 +287,7 @@ Melanchthonpl	MELANCHTHONPL.	Melanchthonplatz		Melanchthonplatz	a131 134 135 638
 Merziger Str	MERZIGER STR.	Merziger Str.		Merziger Str.	a130 N30								
 Metzer Str	METZER STR.	Metzer Str.		Metzer Str.	a134 135 638 N34								
 Moritzstr	MORITZSTR.	Moritzstr.		Moritzstr.	a134 136 137 337 671 M36 M37 M45 N7								
-Muelheimer Str	MÃœLHEIMER STR.	MÃ¼lheimer Str.		MÃ¼lheimer Str.	a137 M37								
+Muelheimer Str	MÜLHEIMER STR.	Mülheimer Str.		Mülheimer Str.	a137 M37								
 Nauener Str	NAUENER STR.	Nauener Str.		Nauener Str.									
 Nervenklinik	NERVENKLINIK SP.	Nervenklinik Spandau		Nervenklinik Spandau									
 Neukladower Allee	NEUKLADOW. ALLEE	Neukladower Allee		Neukladower Allee	a134 697 N34 X34								
@@ -308,15 +308,15 @@ Ritterfelddamm	RITTERFELDDAMM	Ritterfelddamm		Ritterfelddamm
 Rustweg	RUSTWEG	Rustweg		Rustweg									
 Sandheideweg	SANDHEIDEWEG	Sandheideweg		Sandheideweg	a134 N34 X34								
 Sandstr	SANDSTR.	Sandstr.		Sandstr.	a131 M37 M49 X49								
-Schaeferstr	SCHÃ„FERSTR.	SchÃ¤ferstr.		SchÃ¤ferstr.									
+Schaeferstr	SCHÄFERSTR.	Schäferstr.		Schäferstr.									
 Schallweg	SCHALLWEG	Schallweg		Schallweg	a135 234 N34 X34								
 Schulzenstr	SCHULZENSTR.	Schulzenstr.		Schulzenstr.									
 Schwabinger Weg	SCHWABINGER WEG	Schwabinger Weg		Schwabinger Weg	a135 234 N34 X34								
 Schwanter Weg	SCHWANTER WEG	Schwanter Weg		Schwanter Weg									
-Seeburger Str/Paewesiner Weg	PÃ„WESINER WEG	Seeburger Str./	PÃ¤wesiner Weg	Seeburger Str./PÃ¤wesiner Weg	a137 M37								
+Seeburger Str/Paewesiner Weg	PÄWESINER WEG	Seeburger Str./	Päwesiner Weg	Seeburger Str./Päwesiner Weg	a137 M37								
 Seecktstr	SEECKTSTR.	Seecktstr.		Seecktstr.	a137 M37								
 Seekorso	SEEKORSO	Seekorso		Seekorso	a135 N34 X34								
-Semmellaenderweg	SEMMELLÃ„NDERWEG	SemmellÃ¤nderweg		SemmellÃ¤nderweg	a137 M37 M49								
+Semmellaenderweg	SEMMELLÄNDERWEG	Semmelländerweg		Semmelländerweg	a137 M37 M49								
 Siedlung Hakenfelde	SDLG. HAKENFELDE	Siedlung Hakenfelde		Siedlung Hakenfelde	a136 N39								
 Siegener Str	SIEGENER STR.	Siegener Str.		Siegener Str.	a130 137 M37 N30 X37								
 Spandau Friedhof	SPANDAU FRIEDHOF	Spandau Friedhof		Spandau Friedhof									
@@ -326,8 +326,8 @@ Spektefeld	SPEKTEFELD	Spektefeld		Spektefeld	a131 M37 X49
 Spekteweg	SPEKTEWEG	Spekteweg		Spekteweg	a130 N30								
 Springerzeile	SPRINGERZEILE	Springerzeile		Springerzeile	a131 X49								
 Staakener Str	STAAKENER STR.	Staakener Str.		Staakener Str.									
-Str 393	STRASSE 393	StraÃŸe 393		StraÃŸe 393									
-Str 603	STRASSE 603	StraÃŸe 603		StraÃŸe 603									
+Str 393	STRASSE 393	Straße 393		Straße 393									
+Str 603	STRASSE 603	Straße 603		Straße 603									
 Streitstr/Mertensstr	STREITSTR/MERT.	Streitstr./	Mertensstr.	Streitstr./Mertensstr.	a136 139 N39 X36								
 Streitstr/Rauchstr	STREITSTR/RAUCH.	Streitstr./	Rauchstr.	Streitstr./Rauchstr.	a136 M36								
 Stresowpl	STRESOWPLATZ	Stresowplatz		Stresowplatz									
@@ -336,24 +336,24 @@ Torweg	TORWEG	Torweg		Torweg
 Torweg/Hackbuschstr	TORWEG/HACKBUSCH	Torweg/	Hackbuschstr.	Torweg/Hackbuschstr.									
 Triftstr	TRIFTSTR.	Triftstr.		Triftstr.									
 U Altstadt Spandau	U ALTSTADT SPD.	U Altstadt Spandau		U Altstadt Spandau	jaN7 X33								
-U Rathaus Spandau	U RATHAUS SPD.	S+U Rathaus Spandau		S+U Rathaus Spandau	;QYÂ°DGIKqBja130 134 135 136 137 237 337 638 671 M32 M36 M37 M45 N7 N30 N34 X33 X36 X37							
+U Rathaus Spandau	U RATHAUS SPD.	S+U Rathaus Spandau		S+U Rathaus Spandau	;QY°DGIKqBja130 134 135 136 137 237 337 638 671 M32 M36 M37 M45 N7 N30 N34 X33 X36 X37							
 U Ruhleben	U RUHLEBEN	U Ruhleben		U Ruhleben	da130 131 M45 N2 X37								
-Uebergang	ÃœBERGANG	Ãœbergang		Ãœbergang									
+Uebergang	ÜBERGANG	Übergang		Übergang									
 Viersener Str	VIERSENER STR.	Viersener Str.		Viersener Str.									
 Waldallee	WALDALLEE	Waldallee		Waldallee	a135 N34 X34								
 Waldkrankenhaus	WALDKRANKENHAUS	Waldkrankenhaus		Waldkrankenhaus	a130 M37								
 Waldstr	WALDSTR.	Waldstr.		Waldstr.									
 Wasserwerkstr	WASSERWERKSTR	Wasserwerkstr.		Wasserwerkstr.									
 Weinmeisterhornweg	WEINMEISTERHORNW	Weinmeisterhornweg		Weinmeisterhornweg	a135 338 638								
-Weissenburger Str	WEISSENBURGER S.	WeiÃŸenburger Str. 		WeiÃŸenburger Str. 	a131 M36								
+Weissenburger Str	WEISSENBURGER S.	Weißenburger Str. 		Weißenburger Str. 	a131 M36								
 Werderstr	WERDERSTR.	Werderstr.		Werderstr.	a136 139 N39								
 Wilhelmstr	WILHELMSTR.	Wilhelmstr.		Wilhelmstr.									
 Wolburgsweg	WOLBURGSWEG	Wolburgsweg		Wolburgsweg									
-Wroehmaennerpark	WRÃ–HMÃ„NNERPARK	WrÃ¶hmÃ¤nnerpark		WrÃ¶hmÃ¤nnerpark	a134 136 671 M36 M45								
+Wroehmaennerpark	WRÖHMÄNNERPARK	Wröhmännerpark		Wröhmännerpark	a134 136 671 M36 M45								
 Zeppelinstr/Seegefelder Str	ZEPP./SEEGEF.	Zeppelinstr./	Seegefelder Str.	Zeppelinstr./Seegefelder Str.	a130 237 N30									
 Ziegelhof	ZIEGELHOF	Ziegelhof		Ziegelhof	a134 135 137 638 M36 M37 N34								
-Zur Havelduene	ZUR HAVELDÃœNE	Zur HaveldÃ¼ne		Zur HaveldÃ¼ne	a134 N34 X34								
-Zweibruecker Str	ZWEIBRÃœCKER STR.	ZweibrÃ¼cker Str.		ZweibrÃ¼cker Str.	a137 337 M37								
+Zur Havelduene	ZUR HAVELDÜNE	Zur Haveldüne		Zur Haveldüne	a134 N34 X34								
+Zweibruecker Str	ZWEIBRÜCKER STR.	Zweibrücker Str.		Zweibrücker Str.	a137 337 M37								
 Zweiwinkelweg	ZWEIWINKELWEG	Zweiwinkelweg		Zweiwinkelweg
 [end]
 
@@ -1872,7 +1872,7 @@ Polizei-Direktion-West
 Gueterbahn Ruhleben
 Teltower Str
 Tiefwerderweg
-Brunsbï¿½tteler D
+Brunsb˜tteler D
 U Rathaus Spandau
 Moritzstr
 Wroehmaennerpark
@@ -1914,7 +1914,7 @@ Polizei-Direktion-West
 Gueterbahn Ruhleben
 Teltower Str
 Tiefwerderweg
-Brunsbï¿½tteler D
+Brunsb˜tteler D
 U Rathaus Spandau
 Moritzstr
 Wroehmaennerpark
