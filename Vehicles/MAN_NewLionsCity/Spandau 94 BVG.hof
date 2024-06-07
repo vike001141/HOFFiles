@@ -1289,8 +1289,7 @@ FREU-HAHN
 ................													
 													
 [infosystem_busstop_list]													
-31
-Freudstr													
+30													
 Freudstr													
 Falkenseer Ch Freud													
 Falkenseer Ch/Stadtrandstr													
@@ -1334,8 +1333,7 @@ HAHN-FREU
 ................													
 													
 [infosystem_busstop_list]													
-31
-Hahneberg													
+30													
 Hahneberg													
 Pillnitzer Weg													
 Heerstr 438-446													
@@ -1379,8 +1377,7 @@ FREU-REIM
 ................													
 													
 [infosystem_busstop_list]													
-31
-Freudstr													
+30													
 Freudstr													
 Falkenseer Ch Freud													
 Falkenseer Ch/Stadtrandstr													
@@ -1525,8 +1522,7 @@ HAHN-FALK
 ................													
 													
 [infosystem_busstop_list]													
-37
-Hahneberg													
+36													
 Hahneberg													
 Pillnitzer Weg													
 Heerstr 438-446													
@@ -1721,8 +1717,7 @@ HAHN-URAT
 ................													
 													
 [infosystem_busstop_list]													
-14
-Hahneberg													
+13													
 Hahneberg													
 Pillnitzer Weg													
 Heerstr 438-446													
@@ -1904,8 +1899,7 @@ HAHN-KIES
 ................													
 													
 [infosystem_busstop_list]													
-27
-Hahneberg													
+26													
 Hahneberg													
 Pillnitzer Weg													
 Heerstr 438-446													
@@ -2095,8 +2089,7 @@ SIEG-URAT
 													
 													
 [infosystem_busstop_list]													
-12													
-Siegener Str													
+11													
 Siegener Str													
 Falkenseer Ch/Zeppelinstr													
 Zweibruecker Str													
@@ -2147,8 +2140,7 @@ SIEG-HAHN
 ................													
 													
 [infosystem_busstop_list]													
-24													
-Siegener Str													
+23													
 Siegener Str													
 Falkenseer Ch/Zeppelinstr													
 Zweibruecker Str													
@@ -2185,8 +2177,7 @@ HAHN-SIEG
 ................													
 													
 [infosystem_busstop_list]													
-24
-Hahneberg													
+23													
 Hahneberg													
 Pillnitzer Weg													
 Heerstr 438-446													
@@ -2223,8 +2214,7 @@ SIEG-REIM
 ................													
 													
 [infosystem_busstop_list]													
-24													
-Siegener Str													
+23													
 Siegener Str													
 Falkenseer Ch/Zeppelinstr													
 Zweibruecker Str													
@@ -2324,8 +2314,7 @@ FREU-URAT
 137													
 													
 [infosystem_busstop_list]													
-19
-Freudstr													
+18													
 Freudstr													
 Falkenseer Ch Freud													
 Falkenseer Ch/Stadtrandstr													
@@ -2796,7 +2785,7 @@ Bhf Falkensee
 93301													
 UASP-HAHN													
 329													
-933													
+N33													
 													
 ................													
 													
@@ -2831,8 +2820,7 @@ N33
 ................													
 													
 [infosystem_busstop_list]													
-16
-Hahneberg													
+15													
 Hahneberg													
 Pillnitzer Weg													
 Heerstr 438-446													
