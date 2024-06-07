@@ -1986,8 +1986,7 @@ GALE-FALK
 ................													
 													
 [infosystem_busstop_list]													
-25
-Galenstr													
+24													
 Galenstr													
 U Rathaus Spandau													
 Moritzstr													
@@ -2068,9 +2067,8 @@ URAT-KIES
 ................													
 													
 [infosystem_busstop_list]													
-16
-Galenstr													
-Galenstr													
+15
+Galenstr																										
 U Rathaus Spandau													
 Moritzstr													
 U Altstadt Spandau													
@@ -2302,8 +2300,7 @@ URAT-SIEG
 													
 													
 [infosystem_busstop_list]													
-13
-Galenstr													
+12													
 Galenstr													
 U Rathaus Spandau													
 Moritzstr													
@@ -2390,8 +2387,7 @@ URAT-FREU
 137													
 													
 [infosystem_busstop_list]													
-20
-Galenstr													
+19													
 Galenstr													
 U Rathaus Spandau													
 Moritzstr													
@@ -2424,8 +2420,7 @@ SAND-FREU
 ................													
 													
 [infosystem_busstop_list]													
-27
-Sandstr													
+26													
 Sandstr													
 Obstallee													
 Leubnitzer Weg													
@@ -2466,8 +2461,7 @@ SAND-FALK
 ................													
 													
 [infosystem_busstop_list]													
-32
-Sandstr													
+31													
 Sandstr													
 Obstallee													
 Leubnitzer Weg													
@@ -2513,8 +2507,7 @@ SAND-URAT
 ................													
 													
 [infosystem_busstop_list]													
-10
-Sandstr													
+9													
 Sandstr													
 Obstallee													
 Leubnitzer Weg													
@@ -2537,8 +2530,7 @@ SAND-KIES
 ................													
 													
 [infosystem_busstop_list]													
-23
-Sandstr													
+22													
 Sandstr													
 Obstallee													
 Leubnitzer Weg													
@@ -2574,8 +2566,7 @@ SAND-SIEG
 ................													
 													
 [infosystem_busstop_list]													
-20
-Sandstr													
+19													
 Sandstr													
 Obstallee													
 Leubnitzer Weg													
@@ -2608,8 +2599,7 @@ ZIEG-FALK
 ................													
 													
 [infosystem_busstop_list]													
-26
-Ziegelhof													
+25													
 Ziegelhof													
 Brunsbuetteler D/Ruhlebener Str													
 U Rathaus Spandau													
@@ -2649,8 +2639,7 @@ ZIEG-FREU
 ................													
 													
 [infosystem_busstop_list]													
-21
-Ziegelhof													
+20													
 Ziegelhof													
 Brunsbuetteler D/Ruhlebener Str													
 U Rathaus Spandau													
@@ -2684,8 +2673,7 @@ ZIEG-KIES
 ................													
 													
 [infosystem_busstop_list]													
-17
-Ziegelhof													
+16													
 Ziegelhof													
 Brunsbuetteler D/Ruhlebener Str													
 U Rathaus Spandau													
